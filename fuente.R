@@ -1,5 +1,8 @@
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/ausentes/cursada_rec_B")
-filenames_B <- list.files(pattern="*.TXT", full.names=TRUE)
+library(here)
+library(tidyverse)
+
+filenames_B <- list.files(path = here("Acreditacion", "ausentes", "cursada_rec_B"),
+                          pattern="*.TXT", full.names=TRUE)
 
 ldf_B <- lapply(filenames_B, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -22,8 +25,8 @@ bioquimica2['carrera'] <- 'Bioquímica'
 
 #### Farmacia ####
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/ausentes/cursada_rec_F")
-filenames_F <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_F <- list.files(path = here("Acreditacion", "ausentes", "cursada_rec_F"),
+                          pattern="*.TXT", full.names=TRUE)
 
 ldf_F <- lapply(filenames_F, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -44,8 +47,8 @@ farmacia2['carrera'] <- 'Farmacia'
 
 #### Biotec #### 
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/ausentes/cursada_rec_LB")
-filenames_LB <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_LB <- list.files(path = here("Acreditacion", "ausentes", "cursada_rec_LB"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_LB <- lapply(filenames_LB, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -66,8 +69,8 @@ LB2['carrera'] <- 'Lic. Biotecnología'
 
 #### LQ ####
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/ausentes/cursada_rec_LQ")
-filenames_LQ <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_LQ <- list.files(path = here("Acreditacion", "ausentes", "cursada_rec_LQ"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_LQ <- lapply(filenames_LQ, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -92,8 +95,8 @@ LQ2['carrera'] <- 'Lic. Química'
 
 
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/ausentes/cursada_rec_LA")
-filenames_LA <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_LA <- list.files(path = here("Acreditacion", "ausentes", "cursada_rec_LA"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_LA <- lapply(filenames_LA, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -116,8 +119,8 @@ LA2['carrera'] <- 'Lic. Alimentos'
 
 #### PQ #### 
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/ausentes/cursada_rec_PQ")
-filenames_PQ <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_PQ <- list.files(path = here("Acreditacion", "ausentes", "cursada_rec_PQ"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_PQ <- lapply(filenames_PQ, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -165,8 +168,8 @@ por_materia_cursada <- as.data.frame(todas_cursada %>%
                                                  promocionados = sum(promocionados, na.rm = T),
                                                  ausentes = sum(ausentes, na.rm = T)))
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/examenes_materia_anio_B")
-filenames_B <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_B <- list.files(path = here("Acreditacion", "examenes_materia_anio_B"),
+                          pattern="*.TXT", full.names=TRUE)
 
 ldf_B <- lapply(filenames_B, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -181,8 +184,8 @@ bioquimica2['carrera'] <- 'Bioquímica'
 
 #### Farmacia ####
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/examenes_materia_anio_F")
-filenames_F <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_F <- list.files(path = here("Acreditacion", "examenes_materia_anio_F"),
+                          pattern="*.TXT", full.names=TRUE)
 
 ldf_F <- lapply(filenames_F, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -196,8 +199,8 @@ farmacia2['carrera'] <- 'Farmacia'
 
 #### Biotec #### 
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/examenes_materia_anio_LB")
-filenames_LB <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_LB <- list.files(path = here("Acreditacion", "examenes_materia_anio_LB"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_LB <- lapply(filenames_LB, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -211,8 +214,8 @@ LB2['carrera'] <- 'Lic. Biotecnología'
 
 #### LQ ####
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/examenes_materia_anio_LQ")
-filenames_LQ <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_LQ <- list.files(path = here("Acreditacion", "examenes_materia_anio_LQ"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_LQ <- lapply(filenames_LQ, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -228,8 +231,8 @@ LQ2['carrera'] <- 'Lic. Química'
 #### LA #### 
 
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/examenes_materia_anio_LA")
-filenames_LA <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_LA <- list.files(path = here("Acreditacion", "examenes_materia_anio_LA"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_LA <- lapply(filenames_LA, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
@@ -244,8 +247,8 @@ LA2['carrera'] <- 'Lic. Alimentos'
 
 #### PQ #### 
 
-setwd("C:/Users/Gonzalo/Dropbox/Gonzalo 3.0/Acreditacion/examenes_materia_anio_PQ")
-filenames_PQ <- list.files(pattern="*.TXT", full.names=TRUE)
+filenames_PQ <- list.files(path = here("Acreditacion", "examenes_materia_anio_PQ"),
+                           pattern="*.TXT", full.names=TRUE)
 
 ldf_PQ <- lapply(filenames_PQ, read_delim, locale = locale(encoding = "WINDOWS-1252"))
 
