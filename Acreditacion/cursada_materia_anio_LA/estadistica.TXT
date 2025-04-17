@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC013	Estadística	2017	18	9	5	0	4	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC013	Estadística	2018	13	6	4	0	6	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC013	Estadística	2019	24	15	6	0	4	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC013	Estadística	2020	17	6	6	0	8	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC013	Estadística	2021	18	3	11	0	4	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC013	Estadística	2022	15	7	5	0	8	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC013	Estadística	2023	10	0	1	0	2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos

@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC010	Química Orgánica II	2017	16	12	4		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC010	Química Orgánica II	2017	3	3			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC010	Química Orgánica II	2018	7	5	2		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC010	Química Orgánica II	2018	2	2			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC010	Química Orgánica II	2019	10	3	6		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC010	Química Orgánica II	2019	1	1			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC010	Química Orgánica II	2020	11	7	3		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC010	Química Orgánica II	2020	4	4			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC010	Química Orgánica II	2021	16	11	4		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC010	Química Orgánica II	2021	3	2	1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC010	Química Orgánica II	2022	5	2	2		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC010	Química Orgánica II	2022	3	3			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC010	Química Orgánica II	2023	3				07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC010	Química Orgánica II	2023	3				07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante

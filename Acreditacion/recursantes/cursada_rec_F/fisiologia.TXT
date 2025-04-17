@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0605	Fisiología	2017	81	49	26		07035	Farmacia	Cursante
+07345	F0605	Fisiología	2017	22	9	11		07035	Farmacia	Recursante
+07345	F0605	Fisiología	2018	94	74	16		07035	Farmacia	Cursante
+07345	F0605	Fisiología	2018	34	27	6		07035	Farmacia	Recursante
+07345	F0605	Fisiología	2019	55	37	14		07035	Farmacia	Cursante
+07345	F0605	Fisiología	2019	20	12	7		07035	Farmacia	Recursante
+07345	F0605	Fisiología	2020	34	30	2		07035	Farmacia	Cursante
+07345	F0605	Fisiología	2020	21	17	2		07035	Farmacia	Recursante
+07345	F0605	Fisiología	2021	37	14	19		07035	Farmacia	Cursante
+07345	F0605	Fisiología	2021	25	17	7		07035	Farmacia	Recursante
+07345	F0605	Fisiología	2022	19	11	6		07035	Farmacia	Cursante
+07345	F0605	Fisiología	2022	44	32	12		07035	Farmacia	Recursante
+07345	F0605	Fisiología	2023	2		2		07035	Farmacia	Cursante
+07345	F0605	Fisiología	2023	10	6	4		07035	Farmacia	Recursante

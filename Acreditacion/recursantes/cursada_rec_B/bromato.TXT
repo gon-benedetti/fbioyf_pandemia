@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0618	Bromatología y Nutrición	2017	70	59	1		07015	Bioquímica	Cursante
+07345	B0618	Bromatología y Nutrición	2017	6	4	1		07015	Bioquímica	Recursante
+07345	B0618	Bromatología y Nutrición	2018	68	60	2		07015	Bioquímica	Cursante
+07345	B0618	Bromatología y Nutrición	2018	4	3			07015	Bioquímica	Recursante
+07345	B0618	Bromatología y Nutrición	2019	67	58	5		07015	Bioquímica	Cursante
+07345	B0618	Bromatología y Nutrición	2019	2	1	1		07015	Bioquímica	Recursante
+07345	B0618	Bromatología y Nutrición	2020	53	43	2		07015	Bioquímica	Cursante
+07345	B0618	Bromatología y Nutrición	2020	5	5			07015	Bioquímica	Recursante
+07345	B0618	Bromatología y Nutrición	2021	54	50	2		07015	Bioquímica	Cursante
+07345	B0618	Bromatología y Nutrición	2021	1	1			07015	Bioquímica	Recursante
+07345	B0618	Bromatología y Nutrición	2022	40	37	1		07015	Bioquímica	Cursante
+07345	B0618	Bromatología y Nutrición	2022	1		1		07015	Bioquímica	Recursante
+07345	B0618	Bromatología y Nutrición	2023	24	19	2		07015	Bioquímica	Cursante
+07345	B0618	Bromatología y Nutrición	2023	3	2	1		07015	Bioquímica	Recursante

@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC010	Química Orgánica II	2017	53	41	9		07035	Farmacia	Cursante
+07345	AC010	Química Orgánica II	2017	20	12	8		07035	Farmacia	Recursante
+07345	AC010	Química Orgánica II	2018	61	43	20		07035	Farmacia	Cursante
+07345	AC010	Química Orgánica II	2018	14	5	9		07035	Farmacia	Recursante
+07345	AC010	Química Orgánica II	2019	43	37	4		07035	Farmacia	Cursante
+07345	AC010	Química Orgánica II	2019	16	7	8		07035	Farmacia	Recursante
+07345	AC010	Química Orgánica II	2020	35	28	3		07035	Farmacia	Cursante
+07345	AC010	Química Orgánica II	2020	9	5	3		07035	Farmacia	Recursante
+07345	AC010	Química Orgánica II	2021	42	33	6		07035	Farmacia	Cursante
+07345	AC010	Química Orgánica II	2021	5	4			07035	Farmacia	Recursante
+07345	AC010	Química Orgánica II	2022	23	12	4		07035	Farmacia	Cursante
+07345	AC010	Química Orgánica II	2022	6	1	5		07035	Farmacia	Recursante
+07345	AC010	Química Orgánica II	2023	49				07035	Farmacia	Cursante
+07345	AC010	Química Orgánica II	2023	7				07035	Farmacia	Recursante

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07715	Epistemología y Metodología de la Investigación I	2017	4	4	0	AC017	Profesorado en Química
+07345	07715	Epistemología y Metodología de la Investigación I	2018	4	4	0	AC017	Profesorado en Química
+07345	07715	Epistemología y Metodología de la Investigación I	2019	1	1	0	AC017	Profesorado en Química
+07345	07715	Epistemología y Metodología de la Investigación I	2020	0	0	0	AC017	Profesorado en Química
+07345	07715	Epistemología y Metodología de la Investigación I	2021	0	0	0	AC017	Profesorado en Química
+07345	07715	Epistemología y Metodología de la Investigación I	2022	0	0	0	AC017	Profesorado en Química
+07345	07715	Epistemología y Metodología de la Investigación I	2023	0	0	0	AC017	Profesorado en Química

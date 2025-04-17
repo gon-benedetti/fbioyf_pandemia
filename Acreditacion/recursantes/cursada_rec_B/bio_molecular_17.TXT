@@ -1,0 +1,9 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B1707	Biología Molecular	2020	12	3	7		07015	Bioquímica	Cursante
+07345	B1707	Biología Molecular	2020	3	4			07015	Bioquímica	Recursante
+07345	B1707	Biología Molecular	2021	22	9	10		07015	Bioquímica	Cursante
+07345	B1707	Biología Molecular	2021	5	1	3		07015	Bioquímica	Recursante
+07345	B1707	Biología Molecular	2022	41	28	12		07015	Bioquímica	Cursante
+07345	B1707	Biología Molecular	2022	15	11	4		07015	Bioquímica	Recursante
+07345	B1707	Biología Molecular	2023	40	21	15		07015	Bioquímica	Cursante
+07345	B1707	Biología Molecular	2023	9	5	4		07015	Bioquímica	Recursante

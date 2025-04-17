@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC015	Fisicoquímica II	2017	82	59	11		07035	Farmacia	Cursante
+07345	AC015	Fisicoquímica II	2017	26	15	9		07035	Farmacia	Recursante
+07345	AC015	Fisicoquímica II	2018	54	42	15		07035	Farmacia	Cursante
+07345	AC015	Fisicoquímica II	2018	24	5	21		07035	Farmacia	Recursante
+07345	AC015	Fisicoquímica II	2019	37	29	5		07035	Farmacia	Cursante
+07345	AC015	Fisicoquímica II	2019	39	18	20		07035	Farmacia	Recursante
+07345	AC015	Fisicoquímica II	2020	55	39	12		07035	Farmacia	Cursante
+07345	AC015	Fisicoquímica II	2020	56	45	10		07035	Farmacia	Recursante
+07345	AC015	Fisicoquímica II	2021	55	45	9		07035	Farmacia	Cursante
+07345	AC015	Fisicoquímica II	2021	62	46	16		07035	Farmacia	Recursante
+07345	AC015	Fisicoquímica II	2022	25	13	7		07035	Farmacia	Cursante
+07345	AC015	Fisicoquímica II	2022	26	8	15		07035	Farmacia	Recursante
+07345	AC015	Fisicoquímica II	2023	30	19	9		07035	Farmacia	Cursante
+07345	AC015	Fisicoquímica II	2023	18	1	16		07035	Farmacia	Recursante

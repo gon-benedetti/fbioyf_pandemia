@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	BEO14	Biotecnología de enzimas	2017	0	0	0	0	0	07015	Bioquímica
+07345	BEO14	Biotecnología de enzimas	2018	0	0	0	0	0	07015	Bioquímica
+07345	BEO14	Biotecnología de enzimas	2019	3	3	0	0	0	07015	Bioquímica
+07345	BEO14	Biotecnología de enzimas	2020	0	0	0	0	0	07015	Bioquímica
+07345	BEO14	Biotecnología de enzimas	2021	1	0	0	0	1	07015	Bioquímica
+07345	BEO14	Biotecnología de enzimas	2022	0	0	0	0	0	07015	Bioquímica
+07345	BEO14	Biotecnología de enzimas	2023	0	0	0	0	0	07015	Bioquímica

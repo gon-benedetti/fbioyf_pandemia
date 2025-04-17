@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Farmacia Asistencial	2017	100	61	39	F0616	Farmacia
+07345	07035	Farmacia Asistencial	2018	135	70	65	F0616	Farmacia
+07345	07035	Farmacia Asistencial	2019	118	66	52	F0616	Farmacia
+07345	07035	Farmacia Asistencial	2020	77	36	41	F0616	Farmacia
+07345	07035	Farmacia Asistencial	2021	87	46	41	F0616	Farmacia
+07345	07035	Farmacia Asistencial	2022	87	47	40	F0616	Farmacia
+07345	07035	Farmacia Asistencial	2023	42	17	25	F0616	Farmacia

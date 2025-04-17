@@ -1,0 +1,12 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC006	Química Orgánica I	2017	2	2			07715	Profesorado en Química	Cursante
+07345	AC006	Química Orgánica I	2018	3	2	1		07715	Profesorado en Química	Cursante
+07345	AC006	Química Orgánica I	2019	3	4			07715	Profesorado en Química	Cursante
+07345	AC006	Química Orgánica I	2020	3	2			07715	Profesorado en Química	Cursante
+07345	AC006	Química Orgánica I	2020	1	1			07715	Profesorado en Química	Recursante
+07345	AC006	Química Orgánica I	2021	3	1	1		07715	Profesorado en Química	Cursante
+07345	AC006	Química Orgánica I	2021	1		1		07715	Profesorado en Química	Recursante
+07345	AC006	Química Orgánica I	2022	2	1	1		07715	Profesorado en Química	Cursante
+07345	AC006	Química Orgánica I	2022	2		1		07715	Profesorado en Química	Recursante
+07345	AC006	Química Orgánica I	2023	4		3		07715	Profesorado en Química	Cursante
+07345	AC006	Química Orgánica I	2023	1		1		07715	Profesorado en Química	Recursante

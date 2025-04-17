@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC002	Matemática I	2017	16	2	15		07715	Profesorado en Química	Cursante
+07345	AC002	Matemática I	2017	12	2	10		07715	Profesorado en Química	Recursante
+07345	AC002	Matemática I	2018	22	2	20		07715	Profesorado en Química	Cursante
+07345	AC002	Matemática I	2018	12	1	12		07715	Profesorado en Química	Recursante
+07345	AC002	Matemática I	2019	17	3	13		07715	Profesorado en Química	Cursante
+07345	AC002	Matemática I	2019	9	2	7		07715	Profesorado en Química	Recursante
+07345	AC002	Matemática I	2020	12	12			07715	Profesorado en Química	Cursante
+07345	AC002	Matemática I	2020	7	4	3		07715	Profesorado en Química	Recursante
+07345	AC002	Matemática I	2021	17	1	15		07715	Profesorado en Química	Cursante
+07345	AC002	Matemática I	2021	11	2	9		07715	Profesorado en Química	Recursante
+07345	AC002	Matemática I	2022	12	3	8		07715	Profesorado en Química	Cursante
+07345	AC002	Matemática I	2022	7		7		07715	Profesorado en Química	Recursante
+07345	AC002	Matemática I	2023	14		15		07715	Profesorado en Química	Cursante
+07345	AC002	Matemática I	2023	11		5		07715	Profesorado en Química	Recursante

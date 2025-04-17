@@ -1,0 +1,14 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0603	Bioquímica	2017	79	65	13		07035	Farmacia	Cursante
+07345	F0603	Bioquímica	2017	24	13	10		07035	Farmacia	Recursante
+07345	F0603	Bioquímica	2018	52	41	11		07035	Farmacia	Cursante
+07345	F0603	Bioquímica	2018	25	14	13		07035	Farmacia	Recursante
+07345	F0603	Bioquímica	2019	53	37	14		07035	Farmacia	Cursante
+07345	F0603	Bioquímica	2019	23	12	11		07035	Farmacia	Recursante
+07345	F0603	Bioquímica	2020	27	25	2		07035	Farmacia	Cursante
+07345	F0603	Bioquímica	2020	19	13	6		07035	Farmacia	Recursante
+07345	F0603	Bioquímica	2021	13	7	5		07035	Farmacia	Cursante
+07345	F0603	Bioquímica	2021	10	8	2		07035	Farmacia	Recursante
+07345	F0603	Bioquímica	2022	2		2		07035	Farmacia	Cursante
+07345	F0603	Bioquímica	2022	12		12		07035	Farmacia	Recursante
+07345	F0603	Bioquímica	2023	2	2			07035	Farmacia	Recursante

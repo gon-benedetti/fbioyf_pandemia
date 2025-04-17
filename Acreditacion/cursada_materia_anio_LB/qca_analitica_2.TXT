@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC016	Química Analítica II	2017	67	51	9	0	7	07075	Licenciatura en Biotecnología
+07345	AC016	Química Analítica II	2018	59	50	7	0	2	07075	Licenciatura en Biotecnología
+07345	AC016	Química Analítica II	2019	49	41	7	0	4	07075	Licenciatura en Biotecnología
+07345	AC016	Química Analítica II	2020	49	49	0	0	1	07075	Licenciatura en Biotecnología
+07345	AC016	Química Analítica II	2021	45	39	4	0	2	07075	Licenciatura en Biotecnología
+07345	AC016	Química Analítica II	2022	29	19	9	0	1	07075	Licenciatura en Biotecnología
+07345	AC016	Química Analítica II	2023	64	0	0	0	0	07075	Licenciatura en Biotecnología

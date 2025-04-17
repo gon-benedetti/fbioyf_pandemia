@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B0621	Electiva I	2017	70	53	0	1	21	07015	Bioquímica
+07345	B0621	Electiva I	2018	0	0	0	0	0	07015	Bioquímica
+07345	B0621	Electiva I	2019	0	0	0	0	0	07015	Bioquímica
+07345	B0621	Electiva I	2020	0	0	0	0	0	07015	Bioquímica
+07345	B0621	Electiva I	2021	0	0	0	0	0	07015	Bioquímica
+07345	B0621	Electiva I	2022	0	0	0	0	0	07015	Bioquímica
+07345	B0621	Electiva I	2023	0	0	0	0	0	07015	Bioquímica

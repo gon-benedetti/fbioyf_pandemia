@@ -1,0 +1,10 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC009	Computación	2018	48	39	10		07075	Licenciatura en Biotecnología	Cursante
+07345	AC009	Computación	2018	1	1			07075	Licenciatura en Biotecnología	Recursante
+07345	AC009	Computación	2019	46	41	5		07075	Licenciatura en Biotecnología	Cursante
+07345	AC009	Computación	2019	2		2		07075	Licenciatura en Biotecnología	Recursante
+07345	AC009	Computación	2020	16	8	1		07075	Licenciatura en Biotecnología	Cursante
+07345	AC009	Computación	2020	2	1			07075	Licenciatura en Biotecnología	Recursante
+07345	AC009	Computación	2021	3	1		2	07075	Licenciatura en Biotecnología	Cursante
+07345	AC009	Computación	2023	3				07075	Licenciatura en Biotecnología	Cursante
+07345	AC009	Computación	2023	1				07075	Licenciatura en Biotecnología	Recursante

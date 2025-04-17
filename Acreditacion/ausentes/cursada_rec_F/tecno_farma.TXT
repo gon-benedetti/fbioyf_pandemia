@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0610	Tecnología Farmacéutica	2017	89	61	21		07035	Farmacia	Cursante
+07345	F0610	Tecnología Farmacéutica	2017	30	20	8		07035	Farmacia	Recursante
+07345	F0610	Tecnología Farmacéutica	2018	85	77	12		07035	Farmacia	Cursante
+07345	F0610	Tecnología Farmacéutica	2018	27	17	8		07035	Farmacia	Recursante
+07345	F0610	Tecnología Farmacéutica	2019	73	65	7		07035	Farmacia	Cursante
+07345	F0610	Tecnología Farmacéutica	2019	19	15	3		07035	Farmacia	Recursante
+07345	F0610	Tecnología Farmacéutica	2020	39	33	2		07035	Farmacia	Cursante
+07345	F0610	Tecnología Farmacéutica	2020	10	8	2		07035	Farmacia	Recursante
+07345	F0610	Tecnología Farmacéutica	2021	49	39	5		07035	Farmacia	Cursante
+07345	F0610	Tecnología Farmacéutica	2021	6	5	1		07035	Farmacia	Recursante
+07345	F0610	Tecnología Farmacéutica	2022	14	10	3		07035	Farmacia	Cursante
+07345	F0610	Tecnología Farmacéutica	2022	5	2	3		07035	Farmacia	Recursante
+07345	F0610	Tecnología Farmacéutica	2023	2	1			07035	Farmacia	Cursante
+07345	F0610	Tecnología Farmacéutica	2023	2	1	1		07035	Farmacia	Recursante

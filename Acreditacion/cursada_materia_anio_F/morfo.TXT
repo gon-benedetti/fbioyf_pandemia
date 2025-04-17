@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC011	Morfología	2017	125	68	32	0	25	07035	Farmacia
+07345	AC011	Morfología	2018	101	53	30	0	22	07035	Farmacia
+07345	AC011	Morfología	2019	97	46	27	0	28	07035	Farmacia
+07345	AC011	Morfología	2020	125	108	9	0	9	07035	Farmacia
+07345	AC011	Morfología	2021	64	51	1	0	12	07035	Farmacia
+07345	AC011	Morfología	2022	34	21	0	0	13	07035	Farmacia
+07345	AC011	Morfología	2023	36	0	0	0	0	07035	Farmacia

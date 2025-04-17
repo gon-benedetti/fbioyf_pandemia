@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Química Orgánica II	2017	102	58	44	AC010	Farmacia
+07345	07035	Química Orgánica II	2018	82	41	41	AC010	Farmacia
+07345	07035	Química Orgánica II	2019	59	37	22	AC010	Farmacia
+07345	07035	Química Orgánica II	2020	32	20	12	AC010	Farmacia
+07345	07035	Química Orgánica II	2021	50	33	17	AC010	Farmacia
+07345	07035	Química Orgánica II	2022	48	25	23	AC010	Farmacia
+07345	07035	Química Orgánica II	2023	8	4	4	AC010	Farmacia

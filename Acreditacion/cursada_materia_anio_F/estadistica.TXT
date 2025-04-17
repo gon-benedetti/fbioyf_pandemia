@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC013	Estadística	2017	147	64	57	0	37	07035	Farmacia
+07345	AC013	Estadística	2018	116	32	50	0	51	07035	Farmacia
+07345	AC013	Estadística	2019	116	50	25	0	61	07035	Farmacia
+07345	AC013	Estadística	2020	112	43	46	0	35	07035	Farmacia
+07345	AC013	Estadística	2021	96	30	30	0	54	07035	Farmacia
+07345	AC013	Estadística	2022	78	29	21	0	46	07035	Farmacia
+07345	AC013	Estadística	2023	69	1	5	0	12	07035	Farmacia

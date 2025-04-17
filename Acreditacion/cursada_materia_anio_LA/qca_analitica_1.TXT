@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC014	Química Analítica I	2017	6	3	0	0	3	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC014	Química Analítica I	2018	15	11	2	0	2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC014	Química Analítica I	2019	7	6	0	0	1	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC014	Química Analítica I	2020	10	10	0	0	5	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC014	Química Analítica I	2021	9	7	3	0	0	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC014	Química Analítica I	2022	12	8	2	0	2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC014	Química Analítica I	2023	9	8	1	0	0	07309	Licenciatura en Ciencia y Tecnología de los Alimentos

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Seminario Introductorio a la Problemática Farmacéutica	2017	26	22	4	F0601	Farmacia
+07345	07035	Seminario Introductorio a la Problemática Farmacéutica	2018	44	33	11	F0601	Farmacia
+07345	07035	Seminario Introductorio a la Problemática Farmacéutica	2019	7	5	2	F0601	Farmacia
+07345	07035	Seminario Introductorio a la Problemática Farmacéutica	2020	1	1	0	F0601	Farmacia
+07345	07035	Seminario Introductorio a la Problemática Farmacéutica	2021	0	0	0	F0601	Farmacia
+07345	07035	Seminario Introductorio a la Problemática Farmacéutica	2022	0	0	0	F0601	Farmacia
+07345	07035	Seminario Introductorio a la Problemática Farmacéutica	2023	0	0	0	F0601	Farmacia

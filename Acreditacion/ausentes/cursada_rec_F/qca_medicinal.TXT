@@ -1,0 +1,13 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0609	Química Medicinal	2017	94	83	3		07035	Farmacia	Cursante
+07345	F0609	Química Medicinal	2017	15	10	4		07035	Farmacia	Recursante
+07345	F0609	Química Medicinal	2018	75	63	8		07035	Farmacia	Cursante
+07345	F0609	Química Medicinal	2018	7	5	1		07035	Farmacia	Recursante
+07345	F0609	Química Medicinal	2019	78	66	7		07035	Farmacia	Cursante
+07345	F0609	Química Medicinal	2019	7	3	4		07035	Farmacia	Recursante
+07345	F0609	Química Medicinal	2020	34	29	5		07035	Farmacia	Cursante
+07345	F0609	Química Medicinal	2020	9	7	2		07035	Farmacia	Recursante
+07345	F0609	Química Medicinal	2021	33	27	3		07035	Farmacia	Cursante
+07345	F0609	Química Medicinal	2021	7	4	2		07035	Farmacia	Recursante
+07345	F0609	Química Medicinal	2022	16	12	1		07035	Farmacia	Cursante
+07345	F0609	Química Medicinal	2022	7	5	2		07035	Farmacia	Recursante

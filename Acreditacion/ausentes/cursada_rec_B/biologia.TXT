@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC005	Biología	2017	84	54	22		07015	Bioquímica	Cursante
+07345	AC005	Biología	2017	29	19	9		07015	Bioquímica	Recursante
+07345	AC005	Biología	2018	68	37	27		07015	Bioquímica	Cursante
+07345	AC005	Biología	2018	24	14	9		07015	Bioquímica	Recursante
+07345	AC005	Biología	2019	60	33	23		07015	Bioquímica	Cursante
+07345	AC005	Biología	2019	34	13	20		07015	Bioquímica	Recursante
+07345	AC005	Biología	2020	87	70	15		07015	Bioquímica	Cursante
+07345	AC005	Biología	2020	112	107	5		07015	Bioquímica	Recursante
+07345	AC005	Biología	2021	101	79	14		07015	Bioquímica	Cursante
+07345	AC005	Biología	2021	14	12	2		07015	Bioquímica	Recursante
+07345	AC005	Biología	2022	58	39	16		07015	Bioquímica	Cursante
+07345	AC005	Biología	2022	11	5	6		07015	Bioquímica	Recursante
+07345	AC005	Biología	2023	55	43	8		07015	Bioquímica	Cursante
+07345	AC005	Biología	2023	11	7	4		07015	Bioquímica	Recursante

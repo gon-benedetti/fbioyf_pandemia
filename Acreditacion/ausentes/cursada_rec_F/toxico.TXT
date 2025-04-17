@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0618	Toxicología	2017	80	58	9		07035	Farmacia	Cursante
+07345	F0618	Toxicología	2017	10	7	2		07035	Farmacia	Recursante
+07345	F0618	Toxicología	2018	86	68	19		07035	Farmacia	Cursante
+07345	F0618	Toxicología	2018	12	10	2		07035	Farmacia	Recursante
+07345	F0618	Toxicología	2019	101	85	12		07035	Farmacia	Cursante
+07345	F0618	Toxicología	2019	16	13	3		07035	Farmacia	Recursante
+07345	F0618	Toxicología	2020	63	57	4		07035	Farmacia	Cursante
+07345	F0618	Toxicología	2020	9	8	1		07035	Farmacia	Recursante
+07345	F0618	Toxicología	2021	51	48	1		07035	Farmacia	Cursante
+07345	F0618	Toxicología	2021	4	4			07035	Farmacia	Recursante
+07345	F0618	Toxicología	2022	25	15	9		07035	Farmacia	Cursante
+07345	F0618	Toxicología	2022	1	1			07035	Farmacia	Recursante
+07345	F0618	Toxicología	2023	24	19	3		07035	Farmacia	Cursante
+07345	F0618	Toxicología	2023	5	4	1		07035	Farmacia	Recursante

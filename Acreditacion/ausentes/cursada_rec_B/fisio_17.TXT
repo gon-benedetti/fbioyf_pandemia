@@ -1,0 +1,8 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B1705	Fisiología	2020	23	16			07015	Bioquímica	Cursante
+07345	B1705	Fisiología	2021	45	29	12		07015	Bioquímica	Cursante
+07345	B1705	Fisiología	2021	13	11	3		07015	Bioquímica	Recursante
+07345	B1705	Fisiología	2022	35	17	16		07015	Bioquímica	Cursante
+07345	B1705	Fisiología	2022	13	9	4		07015	Bioquímica	Recursante
+07345	B1705	Fisiología	2023	70				07015	Bioquímica	Cursante
+07345	B1705	Fisiología	2023	18				07015	Bioquímica	Recursante

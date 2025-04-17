@@ -1,0 +1,14 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0617	Farmacia Clínica	2017	94	79	2		07035	Farmacia	Cursante
+07345	F0617	Farmacia Clínica	2017	9	8	1		07035	Farmacia	Recursante
+07345	F0617	Farmacia Clínica	2018	85	76	4		07035	Farmacia	Cursante
+07345	F0617	Farmacia Clínica	2018	1	1			07035	Farmacia	Recursante
+07345	F0617	Farmacia Clínica	2019	95	82	9		07035	Farmacia	Cursante
+07345	F0617	Farmacia Clínica	2019	3	2			07035	Farmacia	Recursante
+07345	F0617	Farmacia Clínica	2020	75	68	4		07035	Farmacia	Cursante
+07345	F0617	Farmacia Clínica	2020	7	6			07035	Farmacia	Recursante
+07345	F0617	Farmacia Clínica	2021	44	43			07035	Farmacia	Cursante
+07345	F0617	Farmacia Clínica	2021	3	3			07035	Farmacia	Recursante
+07345	F0617	Farmacia Clínica	2022	31	29	2		07035	Farmacia	Cursante
+07345	F0617	Farmacia Clínica	2022	2	1	1		07035	Farmacia	Recursante
+07345	F0617	Farmacia Clínica	2023	24				07035	Farmacia	Cursante

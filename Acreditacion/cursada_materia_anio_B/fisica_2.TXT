@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC007	Física II	2017	92	70	22	0	14	07015	Bioquímica
+07345	AC007	Física II	2018	65	50	11	0	19	07015	Bioquímica
+07345	AC007	Física II	2019	85	64	14	0	29	07015	Bioquímica
+07345	AC007	Física II	2020	112	66	0	0	101	07015	Bioquímica
+07345	AC007	Física II	2021	86	41	0	0	70	07015	Bioquímica
+07345	AC007	Física II	2022	90	69	37	0	14	07015	Bioquímica
+07345	AC007	Física II	2023	51	29	14	0	8	07015	Bioquímica

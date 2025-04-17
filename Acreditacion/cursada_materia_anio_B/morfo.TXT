@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC011	Morfología	2017	125	84	22	0	20	07015	Bioquímica
+07345	AC011	Morfología	2018	87	59	14	0	16	07015	Bioquímica
+07345	AC011	Morfología	2019	92	55	20	0	19	07015	Bioquímica
+07345	AC011	Morfología	2020	121	98	3	0	20	07015	Bioquímica
+07345	AC011	Morfología	2021	84	75	1	0	8	07015	Bioquímica
+07345	AC011	Morfología	2022	52	39	0	0	13	07015	Bioquímica
+07345	AC011	Morfología	2023	69	0	0	0	0	07015	Bioquímica

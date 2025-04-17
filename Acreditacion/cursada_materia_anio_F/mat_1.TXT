@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC002	Matemática I	2017	209	44	34	0	219	07035	Farmacia
+07345	AC002	Matemática I	2018	210	58	20	0	190	07035	Farmacia
+07345	AC002	Matemática I	2019	225	62	32	0	208	07035	Farmacia
+07345	AC002	Matemática I	2020	208	246	41	0	39	07035	Farmacia
+07345	AC002	Matemática I	2021	246	90	61	0	165	07035	Farmacia
+07345	AC002	Matemática I	2022	237	50	98	0	193	07035	Farmacia
+07345	AC002	Matemática I	2023	239	28	107	2	109	07035	Farmacia

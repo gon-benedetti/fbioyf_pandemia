@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC005	Biología	2017	69	27	29		07035	Farmacia	Cursante
+07345	AC005	Biología	2017	43	20	22		07035	Farmacia	Recursante
+07345	AC005	Biología	2018	64	24	40		07035	Farmacia	Cursante
+07345	AC005	Biología	2018	46	20	27		07035	Farmacia	Recursante
+07345	AC005	Biología	2019	44	23	21		07035	Farmacia	Cursante
+07345	AC005	Biología	2019	58	15	41		07035	Farmacia	Recursante
+07345	AC005	Biología	2020	36	31	5		07035	Farmacia	Cursante
+07345	AC005	Biología	2020	107	104	3		07035	Farmacia	Recursante
+07345	AC005	Biología	2021	55	44	7		07035	Farmacia	Cursante
+07345	AC005	Biología	2021	6	2	4		07035	Farmacia	Recursante
+07345	AC005	Biología	2022	41	18	22		07035	Farmacia	Cursante
+07345	AC005	Biología	2022	9	2	7		07035	Farmacia	Recursante
+07345	AC005	Biología	2023	37	23	8		07035	Farmacia	Cursante
+07345	AC005	Biología	2023	19	5	14		07035	Farmacia	Recursante

@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC001	Química General e Inorgánica	2017	155	32	133		07035	Farmacia	Cursante
+07345	AC001	Química General e Inorgánica	2017	95	28	67		07035	Farmacia	Recursante
+07345	AC001	Química General e Inorgánica	2018	146	26	119		07035	Farmacia	Cursante
+07345	AC001	Química General e Inorgánica	2018	135	9	127		07035	Farmacia	Recursante
+07345	AC001	Química General e Inorgánica	2019	165	25	140		07035	Farmacia	Cursante
+07345	AC001	Química General e Inorgánica	2019	230	20	194		07035	Farmacia	Recursante
+07345	AC001	Química General e Inorgánica	2020	142	22	120		07035	Farmacia	Cursante
+07345	AC001	Química General e Inorgánica	2020	112	42	66		07035	Farmacia	Recursante
+07345	AC001	Química General e Inorgánica	2021	182	28	154		07035	Farmacia	Cursante
+07345	AC001	Química General e Inorgánica	2021	93	34	69		07035	Farmacia	Recursante
+07345	AC001	Química General e Inorgánica	2022	188	14	174		07035	Farmacia	Cursante
+07345	AC001	Química General e Inorgánica	2022	182	15	166		07035	Farmacia	Recursante
+07345	AC001	Química General e Inorgánica	2023	172				07035	Farmacia	Cursante
+07345	AC001	Química General e Inorgánica	2023	130		4		07035	Farmacia	Recursante

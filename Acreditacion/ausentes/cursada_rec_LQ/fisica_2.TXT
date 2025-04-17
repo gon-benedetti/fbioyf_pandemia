@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC007	Física II	2017	16	12	4		07055	Licenciatura en Química	Cursante
+07345	AC007	Física II	2017	5	4	1		07055	Licenciatura en Química	Recursante
+07345	AC007	Física II	2018	10	6	3		07055	Licenciatura en Química	Cursante
+07345	AC007	Física II	2018	5	3			07055	Licenciatura en Química	Recursante
+07345	AC007	Física II	2019	18	8	8		07055	Licenciatura en Química	Cursante
+07345	AC007	Física II	2019	8	3	5		07055	Licenciatura en Química	Recursante
+07345	AC007	Física II	2020	19	11	6		07055	Licenciatura en Química	Cursante
+07345	AC007	Física II	2020	7	6	2		07055	Licenciatura en Química	Recursante
+07345	AC007	Física II	2021	14	6	2		07055	Licenciatura en Química	Cursante
+07345	AC007	Física II	2021	7	2	5		07055	Licenciatura en Química	Recursante
+07345	AC007	Física II	2022	13	11	1		07055	Licenciatura en Química	Cursante
+07345	AC007	Física II	2022	5	1	4		07055	Licenciatura en Química	Recursante
+07345	AC007	Física II	2023	17	8	7		07055	Licenciatura en Química	Cursante
+07345	AC007	Física II	2023	5		1		07055	Licenciatura en Química	Recursante

@@ -1,0 +1,14 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC016	Química Analítica II	2017	61	44	15		07075	Licenciatura en Biotecnología	Cursante
+07345	AC016	Química Analítica II	2017	8	7	1		07075	Licenciatura en Biotecnología	Recursante
+07345	AC016	Química Analítica II	2018	48	40	8		07075	Licenciatura en Biotecnología	Cursante
+07345	AC016	Química Analítica II	2018	11	10	1		07075	Licenciatura en Biotecnología	Recursante
+07345	AC016	Química Analítica II	2019	40	34	8		07075	Licenciatura en Biotecnología	Cursante
+07345	AC016	Química Analítica II	2019	10	7	3		07075	Licenciatura en Biotecnología	Recursante
+07345	AC016	Química Analítica II	2020	42	40	1		07075	Licenciatura en Biotecnología	Cursante
+07345	AC016	Química Analítica II	2020	9	9			07075	Licenciatura en Biotecnología	Recursante
+07345	AC016	Química Analítica II	2021	46	39	6		07075	Licenciatura en Biotecnología	Cursante
+07345	AC016	Química Analítica II	2022	26	15	9		07075	Licenciatura en Biotecnología	Cursante
+07345	AC016	Química Analítica II	2022	5	4	1		07075	Licenciatura en Biotecnología	Recursante
+07345	AC016	Química Analítica II	2023	63				07075	Licenciatura en Biotecnología	Cursante
+07345	AC016	Química Analítica II	2023	14				07075	Licenciatura en Biotecnología	Recursante

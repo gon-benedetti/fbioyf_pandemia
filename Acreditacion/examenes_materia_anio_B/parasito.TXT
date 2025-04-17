@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Parasitología	2017	32	31	1	B0617	Bioquímica
+07345	07015	Parasitología	2018	67	60	7	B0617	Bioquímica
+07345	07015	Parasitología	2019	39	39	0	B0617	Bioquímica
+07345	07015	Parasitología	2020	45	42	3	B0617	Bioquímica
+07345	07015	Parasitología	2021	29	25	4	B0617	Bioquímica
+07345	07015	Parasitología	2022	26	26	0	B0617	Bioquímica
+07345	07015	Parasitología	2023	16	16	0	B0617	Bioquímica

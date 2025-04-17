@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	FEO27	Tecnologías, salud y acción social profesional: prevención y	2017	0	0	0	0	0	07035	Farmacia
+07345	FEO27	Tecnologías, salud y acción social profesional: prevención y	2018	0	0	0	0	0	07035	Farmacia
+07345	FEO27	Tecnologías, salud y acción social profesional: prevención y	2019	0	0	0	0	0	07035	Farmacia
+07345	FEO27	Tecnologías, salud y acción social profesional: prevención y	2020	0	0	0	0	0	07035	Farmacia
+07345	FEO27	Tecnologías, salud y acción social profesional: prevención y	2021	0	0	0	0	0	07035	Farmacia
+07345	FEO27	Tecnologías, salud y acción social profesional: prevención y	2022	14	0	0	9	5	07035	Farmacia
+07345	FEO27	Tecnologías, salud y acción social profesional: prevención y	2023	7	0	0	0	0	07035	Farmacia

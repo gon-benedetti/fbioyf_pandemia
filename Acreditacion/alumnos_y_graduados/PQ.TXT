@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_carrera	anio_academico	postulantes	ingresantes	alumnos	egresados
+07345	07715	Profesorado en Química	2017	46	0	0	0
+07345	07715	Profesorado en Química	2018	58	0	0	0
+07345	07715	Profesorado en Química	2019	35	32	214	4
+07345	07715	Profesorado en Química	2020	32	29	195	2
+07345	07715	Profesorado en Química	2021	39	38	186	0
+07345	07715	Profesorado en Química	2022	27	26	177	8
+07345	07715	Profesorado en Química	2023	21	0	0	0

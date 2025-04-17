@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0607	Farmacognosia	2017	83	69	11		07035	Farmacia	Cursante
+07345	F0607	Farmacognosia	2017	16	8	8		07035	Farmacia	Recursante
+07345	F0607	Farmacognosia	2018	80	65	12		07035	Farmacia	Cursante
+07345	F0607	Farmacognosia	2018	14	7	5		07035	Farmacia	Recursante
+07345	F0607	Farmacognosia	2019	69	59	8		07035	Farmacia	Cursante
+07345	F0607	Farmacognosia	2019	18	12	4		07035	Farmacia	Recursante
+07345	F0607	Farmacognosia	2020	34	26	4		07035	Farmacia	Cursante
+07345	F0607	Farmacognosia	2020	47	44	2		07035	Farmacia	Recursante
+07345	F0607	Farmacognosia	2021	46	35	10		07035	Farmacia	Cursante
+07345	F0607	Farmacognosia	2021	12	6	5		07035	Farmacia	Recursante
+07345	F0607	Farmacognosia	2022	12	5	6		07035	Farmacia	Cursante
+07345	F0607	Farmacognosia	2022	11	3	7		07035	Farmacia	Recursante
+07345	F0607	Farmacognosia	2023	4	3	1		07035	Farmacia	Cursante
+07345	F0607	Farmacognosia	2023	6	3	3		07035	Farmacia	Recursante

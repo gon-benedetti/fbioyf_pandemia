@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Bromatología y Nutrición	2017	57	54	3	B0618	Bioquímica
+07345	07015	Bromatología y Nutrición	2018	42	35	7	B0618	Bioquímica
+07345	07015	Bromatología y Nutrición	2019	51	45	6	B0618	Bioquímica
+07345	07015	Bromatología y Nutrición	2020	62	58	4	B0618	Bioquímica
+07345	07015	Bromatología y Nutrición	2021	27	23	4	B0618	Bioquímica
+07345	07015	Bromatología y Nutrición	2022	28	25	3	B0618	Bioquímica
+07345	07015	Bromatología y Nutrición	2023	14	13	1	B0618	Bioquímica

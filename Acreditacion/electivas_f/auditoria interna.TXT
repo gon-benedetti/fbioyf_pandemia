@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	FEO30	Auditoria interna autoinspección es	2017	0	0	0	0	0	07035	Farmacia
+07345	FEO30	Auditoria interna autoinspección es	2018	0	0	0	0	0	07035	Farmacia
+07345	FEO30	Auditoria interna autoinspección es	2019	0	0	0	0	0	07035	Farmacia
+07345	FEO30	Auditoria interna autoinspección es	2020	0	0	0	0	0	07035	Farmacia
+07345	FEO30	Auditoria interna autoinspección es	2021	0	0	0	0	0	07035	Farmacia
+07345	FEO30	Auditoria interna autoinspección es	2022	0	0	0	0	0	07035	Farmacia
+07345	FEO30	Auditoria interna autoinspección es	2023	5	0	0	0	0	07035	Farmacia

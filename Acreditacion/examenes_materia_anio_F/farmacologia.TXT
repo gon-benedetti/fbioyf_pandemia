@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Farmacología	2017	85	71	14	F0611	Farmacia
+07345	07035	Farmacología	2018	87	62	25	F0611	Farmacia
+07345	07035	Farmacología	2019	83	64	19	F0611	Farmacia
+07345	07035	Farmacología	2020	26	20	6	F0611	Farmacia
+07345	07035	Farmacología	2021	93	54	39	F0611	Farmacia
+07345	07035	Farmacología	2022	65	36	29	F0611	Farmacia
+07345	07035	Farmacología	2023	24	15	9	F0611	Farmacia

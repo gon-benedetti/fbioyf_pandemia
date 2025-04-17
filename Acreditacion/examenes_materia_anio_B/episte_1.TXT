@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Epistemología y Metodología de la Investigación I	2017	61	56	5	AC017	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2018	62	48	14	AC017	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2019	76	67	9	AC017	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2020	16	15	1	AC017	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2021	23	21	2	AC017	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2022	2	2	0	AC017	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2023	0	0	0	AC017	Bioquímica

@@ -1,0 +1,14 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC015	Fisicoquímica II	2017	14	14	1		07055	Licenciatura en Química	Cursante
+07345	AC015	Fisicoquímica II	2017	2	1			07055	Licenciatura en Química	Recursante
+07345	AC015	Fisicoquímica II	2018	22	13	5		07055	Licenciatura en Química	Cursante
+07345	AC015	Fisicoquímica II	2018	2		1		07055	Licenciatura en Química	Recursante
+07345	AC015	Fisicoquímica II	2019	12	10			07055	Licenciatura en Química	Cursante
+07345	AC015	Fisicoquímica II	2019	4	3	1		07055	Licenciatura en Química	Recursante
+07345	AC015	Fisicoquímica II	2020	9	6	1		07055	Licenciatura en Química	Cursante
+07345	AC015	Fisicoquímica II	2020	7	6	1		07055	Licenciatura en Química	Recursante
+07345	AC015	Fisicoquímica II	2021	15	12	1		07055	Licenciatura en Química	Cursante
+07345	AC015	Fisicoquímica II	2021	9	9			07055	Licenciatura en Química	Recursante
+07345	AC015	Fisicoquímica II	2022	17	12	4		07055	Licenciatura en Química	Cursante
+07345	AC015	Fisicoquímica II	2023	6	3	1		07055	Licenciatura en Química	Cursante
+07345	AC015	Fisicoquímica II	2023	3	1	2		07055	Licenciatura en Química	Recursante

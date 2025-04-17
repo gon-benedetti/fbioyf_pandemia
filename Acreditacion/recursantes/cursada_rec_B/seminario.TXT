@@ -1,0 +1,7 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0601	Seminario Introductorio a la Problemática Bioquímica	2017	197	11	107		07015	Bioquímica	Cursante
+07345	B0601	Seminario Introductorio a la Problemática Bioquímica	2017	9	1	8		07015	Bioquímica	Recursante
+07345	B0601	Seminario Introductorio a la Problemática Bioquímica	2018	213	2	98		07015	Bioquímica	Cursante
+07345	B0601	Seminario Introductorio a la Problemática Bioquímica	2018	12		9		07015	Bioquímica	Recursante
+07345	B0601	Seminario Introductorio a la Problemática Bioquímica	2019	5		2	1	07015	Bioquímica	Cursante
+07345	B0601	Seminario Introductorio a la Problemática Bioquímica	2019	25		18		07015	Bioquímica	Recursante

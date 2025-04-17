@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	T1813	Biología Molecular 	2017	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	T1813	Biología Molecular 	2018	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	T1813	Biología Molecular 	2019	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	T1813	Biología Molecular 	2020	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	T1813	Biología Molecular 	2021	16	15	4	0	0	07075	Licenciatura en Biotecnología
+07345	T1813	Biología Molecular 	2022	32	31	1	0	0	07075	Licenciatura en Biotecnología
+07345	T1813	Biología Molecular 	2023	35	0	0	0	0	07075	Licenciatura en Biotecnología

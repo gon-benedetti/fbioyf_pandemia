@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC016	Química Analítica II	2017	65	45	20		07035	Farmacia	Cursante
+07345	AC016	Química Analítica II	2017	35	21	14		07035	Farmacia	Recursante
+07345	AC016	Química Analítica II	2018	75	53	23		07035	Farmacia	Cursante
+07345	AC016	Química Analítica II	2018	36	24	13		07035	Farmacia	Recursante
+07345	AC016	Química Analítica II	2019	34	21	13		07035	Farmacia	Cursante
+07345	AC016	Química Analítica II	2019	33	15	16		07035	Farmacia	Recursante
+07345	AC016	Química Analítica II	2020	59	45	7		07035	Farmacia	Cursante
+07345	AC016	Química Analítica II	2020	32	22	8		07035	Farmacia	Recursante
+07345	AC016	Química Analítica II	2021	44	29	13		07035	Farmacia	Cursante
+07345	AC016	Química Analítica II	2021	11	5	7		07035	Farmacia	Recursante
+07345	AC016	Química Analítica II	2022	21	12	8		07035	Farmacia	Cursante
+07345	AC016	Química Analítica II	2022	20	3	17		07035	Farmacia	Recursante
+07345	AC016	Química Analítica II	2023	25				07035	Farmacia	Cursante
+07345	AC016	Química Analítica II	2023	24				07035	Farmacia	Recursante

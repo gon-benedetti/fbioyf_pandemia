@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC013	Estadística	2017	17	10	7		07055	Licenciatura en Química	Cursante
+07345	AC013	Estadística	2017	17	7	10		07055	Licenciatura en Química	Recursante
+07345	AC013	Estadística	2018	13	9	3		07055	Licenciatura en Química	Cursante
+07345	AC013	Estadística	2018	19	2	17		07055	Licenciatura en Química	Recursante
+07345	AC013	Estadística	2019	15	8	5		07055	Licenciatura en Química	Cursante
+07345	AC013	Estadística	2019	13	3	8		07055	Licenciatura en Química	Recursante
+07345	AC013	Estadística	2020	19	9	9		07055	Licenciatura en Química	Cursante
+07345	AC013	Estadística	2020	13	5	7		07055	Licenciatura en Química	Recursante
+07345	AC013	Estadística	2021	16	8	7		07055	Licenciatura en Química	Cursante
+07345	AC013	Estadística	2021	9	1	8		07055	Licenciatura en Química	Recursante
+07345	AC013	Estadística	2022	13	7	5		07055	Licenciatura en Química	Cursante
+07345	AC013	Estadística	2022	11	3	7		07055	Licenciatura en Química	Recursante
+07345	AC013	Estadística	2023	12				07055	Licenciatura en Química	Cursante
+07345	AC013	Estadística	2023	14	3	5		07055	Licenciatura en Química	Recursante

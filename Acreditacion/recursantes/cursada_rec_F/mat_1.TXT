@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC002	Matemática I	2017	155	34	130		07035	Farmacia	Cursante
+07345	AC002	Matemática I	2017	133	10	123		07035	Farmacia	Recursante
+07345	AC002	Matemática I	2018	144	43	103		07035	Farmacia	Cursante
+07345	AC002	Matemática I	2018	118	15	107		07035	Farmacia	Recursante
+07345	AC002	Matemática I	2019	164	46	118		07035	Farmacia	Cursante
+07345	AC002	Matemática I	2019	133	16	122		07035	Farmacia	Recursante
+07345	AC002	Matemática I	2020	140	138	2		07035	Farmacia	Cursante
+07345	AC002	Matemática I	2020	187	108	78		07035	Farmacia	Recursante
+07345	AC002	Matemática I	2021	184	63	119		07035	Farmacia	Cursante
+07345	AC002	Matemática I	2021	135	27	107		07035	Farmacia	Recursante
+07345	AC002	Matemática I	2022	187	27	159		07035	Farmacia	Cursante
+07345	AC002	Matemática I	2022	151	23	132		07035	Farmacia	Recursante
+07345	AC002	Matemática I	2023	168	20	152	1	07035	Farmacia	Cursante
+07345	AC002	Matemática I	2023	179	8	64	1	07035	Farmacia	Recursante

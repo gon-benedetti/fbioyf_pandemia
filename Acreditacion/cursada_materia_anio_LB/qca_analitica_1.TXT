@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC014	Química Analítica I	2017	72	62	6	0	4	07075	Licenciatura en Biotecnología
+07345	AC014	Química Analítica I	2018	54	48	5	0	4	07075	Licenciatura en Biotecnología
+07345	AC014	Química Analítica I	2019	48	44	2	0	4	07075	Licenciatura en Biotecnología
+07345	AC014	Química Analítica I	2020	49	83	4	0	5	07075	Licenciatura en Biotecnología
+07345	AC014	Química Analítica I	2021	63	50	5	0	8	07075	Licenciatura en Biotecnología
+07345	AC014	Química Analítica I	2022	44	32	7	0	5	07075	Licenciatura en Biotecnología
+07345	AC014	Química Analítica I	2023	75	68	2	0	5	07075	Licenciatura en Biotecnología

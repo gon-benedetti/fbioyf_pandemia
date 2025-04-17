@@ -1,0 +1,5 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	T1813	Biología Molecular 	2021	17	12	4		07075	Licenciatura en Biotecnología	Cursante
+07345	T1813	Biología Molecular 	2021	3	3			07075	Licenciatura en Biotecnología	Recursante
+07345	T1813	Biología Molecular 	2022	32	31	1		07075	Licenciatura en Biotecnología	Cursante
+07345	T1813	Biología Molecular 	2023	36				07075	Licenciatura en Biotecnología	Cursante

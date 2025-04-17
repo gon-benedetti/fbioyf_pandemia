@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B1704	Taller de Problemática Profesional II	2017	0	0	0	0	0	07015	Bioquímica
+07345	B1704	Taller de Problemática Profesional II	2018	0	0	0	0	0	07015	Bioquímica
+07345	B1704	Taller de Problemática Profesional II	2019	0	0	0	0	0	07015	Bioquímica
+07345	B1704	Taller de Problemática Profesional II	2020	19	3	1	0	1	07015	Bioquímica
+07345	B1704	Taller de Problemática Profesional II	2021	66	10	0	53	3	07015	Bioquímica
+07345	B1704	Taller de Problemática Profesional II	2022	47	16	0	29	2	07015	Bioquímica
+07345	B1704	Taller de Problemática Profesional II	2023	54	12	0	39	3	07015	Bioquímica

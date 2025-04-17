@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Química Orgánica I	2017	93	44	49	AC006	Farmacia
+07345	07035	Química Orgánica I	2018	97	40	57	AC006	Farmacia
+07345	07035	Química Orgánica I	2019	57	39	18	AC006	Farmacia
+07345	07035	Química Orgánica I	2020	60	29	31	AC006	Farmacia
+07345	07035	Química Orgánica I	2021	40	18	22	AC006	Farmacia
+07345	07035	Química Orgánica I	2022	60	27	33	AC006	Farmacia
+07345	07035	Química Orgánica I	2023	27	13	14	AC006	Farmacia

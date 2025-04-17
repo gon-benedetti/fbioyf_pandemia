@@ -1,0 +1,14 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0608	Microbiología	2017	77	67	10		07035	Farmacia	Cursante
+07345	F0608	Microbiología	2017	18	12	6		07035	Farmacia	Recursante
+07345	F0608	Microbiología	2018	66	50	15		07035	Farmacia	Cursante
+07345	F0608	Microbiología	2018	10	7	3		07035	Farmacia	Recursante
+07345	F0608	Microbiología	2019	48	43	4		07035	Farmacia	Cursante
+07345	F0608	Microbiología	2019	15	9	4		07035	Farmacia	Recursante
+07345	F0608	Microbiología	2020	38	34	4		07035	Farmacia	Cursante
+07345	F0608	Microbiología	2020	10	6	4		07035	Farmacia	Recursante
+07345	F0608	Microbiología	2021	15	12	2		07035	Farmacia	Cursante
+07345	F0608	Microbiología	2021	10	5	5		07035	Farmacia	Recursante
+07345	F0608	Microbiología	2022	2	1	1		07035	Farmacia	Cursante
+07345	F0608	Microbiología	2022	3	1	2		07035	Farmacia	Recursante
+07345	F0608	Microbiología	2023	1				07035	Farmacia	Recursante

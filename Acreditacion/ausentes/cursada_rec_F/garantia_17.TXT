@@ -1,0 +1,6 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F1721	Garantía de Calidad de Medicamentos	2020	5	3			07035	Farmacia	Cursante
+07345	F1721	Garantía de Calidad de Medicamentos	2020	3	3			07035	Farmacia	Recursante
+07345	F1721	Garantía de Calidad de Medicamentos	2021	5	5			07035	Farmacia	Cursante
+07345	F1721	Garantía de Calidad de Medicamentos	2022	14	10	2		07035	Farmacia	Cursante
+07345	F1721	Garantía de Calidad de Medicamentos	2023	29	20	4		07035	Farmacia	Cursante

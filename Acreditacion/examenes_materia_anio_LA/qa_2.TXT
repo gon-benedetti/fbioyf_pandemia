@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07309	Química Analítica II	2017	5	3	2	AC016	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Analítica II	2018	3	1	2	AC016	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Analítica II	2019	17	7	10	AC016	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Analítica II	2020	4	2	2	AC016	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Analítica II	2021	16	8	8	AC016	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Analítica II	2022	8	3	5	AC016	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Analítica II	2023	6	3	3	AC016	Licenciatura en Ciencia y Tecnología de los Alimentos

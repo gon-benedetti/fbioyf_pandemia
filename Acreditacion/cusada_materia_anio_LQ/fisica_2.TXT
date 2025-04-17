@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC007	Física II	2017	20	16	2	0	3	07055	Licenciatura en Química
+07345	AC007	Física II	2018	11	9	1	0	2	07055	Licenciatura en Química
+07345	AC007	Física II	2019	19	11	3	0	10	07055	Licenciatura en Química
+07345	AC007	Física II	2020	19	17	0	0	8	07055	Licenciatura en Química
+07345	AC007	Física II	2021	14	8	0	0	7	07055	Licenciatura en Química
+07345	AC007	Física II	2022	14	12	3	0	2	07055	Licenciatura en Química
+07345	AC007	Física II	2023	17	8	6	0	2	07055	Licenciatura en Química

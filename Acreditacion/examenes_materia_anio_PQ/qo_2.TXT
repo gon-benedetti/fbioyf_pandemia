@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07715	Química Orgánica II	2017	6	3	3	AC010	Profesorado en Química
+07345	07715	Química Orgánica II	2018	2	2	0	AC010	Profesorado en Química
+07345	07715	Química Orgánica II	2019	4	2	2	AC010	Profesorado en Química
+07345	07715	Química Orgánica II	2020	1	1	0	AC010	Profesorado en Química
+07345	07715	Química Orgánica II	2021	1	0	1	AC010	Profesorado en Química
+07345	07715	Química Orgánica II	2022	2	2	0	AC010	Profesorado en Química
+07345	07715	Química Orgánica II	2023	0	0	0	AC010	Profesorado en Química

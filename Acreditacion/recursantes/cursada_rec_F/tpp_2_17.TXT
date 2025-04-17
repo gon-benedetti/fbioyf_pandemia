@@ -1,0 +1,7 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F1704	Taller de Problemática Profesional II	2019	6	2			07035	Farmacia	Cursante
+07345	F1704	Taller de Problemática Profesional II	2020	30	4	2		07035	Farmacia	Cursante
+07345	F1704	Taller de Problemática Profesional II	2021	46	1	7	30	07035	Farmacia	Cursante
+07345	F1704	Taller de Problemática Profesional II	2022	30	11	1	15	07035	Farmacia	Cursante
+07345	F1704	Taller de Problemática Profesional II	2022	1	1			07035	Farmacia	Recursante
+07345	F1704	Taller de Problemática Profesional II	2023	29				07035	Farmacia	Cursante

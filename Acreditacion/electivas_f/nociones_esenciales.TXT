@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	FEO12	Nociones esenciales de la fisiología de los estados patológi	2017	0	0	0	0	0	07035	Farmacia
+07345	FEO12	Nociones esenciales de la fisiología de los estados patológi	2018	15	10	0	0	5	07035	Farmacia
+07345	FEO12	Nociones esenciales de la fisiología de los estados patológi	2019	26	13	0	0	6	07035	Farmacia
+07345	FEO12	Nociones esenciales de la fisiología de los estados patológi	2020	11	10	0	0	1	07035	Farmacia
+07345	FEO12	Nociones esenciales de la fisiología de los estados patológi	2021	6	6	0	0	0	07035	Farmacia
+07345	FEO12	Nociones esenciales de la fisiología de los estados patológi	2022	9	6	0	0	3	07035	Farmacia
+07345	FEO12	Nociones esenciales de la fisiología de los estados patológi	2023	11	0	0	0	0	07035	Farmacia

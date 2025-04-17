@@ -1,0 +1,8 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F1713	Farmacología	2019	1		1		07035	Farmacia	Cursante
+07345	F1713	Farmacología	2020	8	3			07035	Farmacia	Cursante
+07345	F1713	Farmacología	2020	1	1			07035	Farmacia	Recursante
+07345	F1713	Farmacología	2021	17	11			07035	Farmacia	Cursante
+07345	F1713	Farmacología	2022	45	35	9		07035	Farmacia	Cursante
+07345	F1713	Farmacología	2023	30				07035	Farmacia	Cursante
+07345	F1713	Farmacología	2023	7				07035	Farmacia	Recursante

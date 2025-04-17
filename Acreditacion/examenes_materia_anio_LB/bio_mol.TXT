@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07075	Biología Molecular	2017	46	44	2	T0706	Licenciatura en Biotecnología
+07345	07075	Biología Molecular	2018	38	36	2	T0706	Licenciatura en Biotecnología
+07345	07075	Biología Molecular	2019	44	41	3	T0706	Licenciatura en Biotecnología
+07345	07075	Biología Molecular	2020	58	53	5	T0706	Licenciatura en Biotecnología
+07345	07075	Biología Molecular	2021	37	29	8	T0706	Licenciatura en Biotecnología
+07345	07075	Biología Molecular	2022	31	28	3	T0706	Licenciatura en Biotecnología
+07345	07075	Biología Molecular	2023	10	9	1	T0706	Licenciatura en Biotecnología

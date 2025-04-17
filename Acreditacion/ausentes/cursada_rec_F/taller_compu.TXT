@@ -1,0 +1,9 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC020	Taller de Computación	2019	1	1			07035	Farmacia	Cursante
+07345	AC020	Taller de Computación	2020	52		8		07035	Farmacia	Cursante
+07345	AC020	Taller de Computación	2021	50	6	5	30	07035	Farmacia	Cursante
+07345	AC020	Taller de Computación	2021	4	2	2		07035	Farmacia	Recursante
+07345	AC020	Taller de Computación	2022	32	7	4	19	07035	Farmacia	Cursante
+07345	AC020	Taller de Computación	2022	2	1		1	07035	Farmacia	Recursante
+07345	AC020	Taller de Computación	2023	61	1	15	33	07035	Farmacia	Cursante
+07345	AC020	Taller de Computación	2023	5			2	07035	Farmacia	Recursante

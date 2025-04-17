@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Morfología	2017	130	63	67	AC011	Bioquímica
+07345	07015	Morfología	2018	85	39	46	AC011	Bioquímica
+07345	07015	Morfología	2019	146	63	83	AC011	Bioquímica
+07345	07015	Morfología	2020	165	84	81	AC011	Bioquímica
+07345	07015	Morfología	2021	123	101	22	AC011	Bioquímica
+07345	07015	Morfología	2022	29	23	6	AC011	Bioquímica
+07345	07015	Morfología	2023	7	7	0	AC011	Bioquímica

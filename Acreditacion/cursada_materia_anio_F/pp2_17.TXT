@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F1719	Práctica Profesional Nivel II	2017	0	0	0	0	0	07035	Farmacia
+07345	F1719	Práctica Profesional Nivel II	2018	0	0	0	0	0	07035	Farmacia
+07345	F1719	Práctica Profesional Nivel II	2019	0	0	0	0	0	07035	Farmacia
+07345	F1719	Práctica Profesional Nivel II	2020	2	2	0	0	0	07035	Farmacia
+07345	F1719	Práctica Profesional Nivel II	2021	4	4	0	0	0	07035	Farmacia
+07345	F1719	Práctica Profesional Nivel II	2022	11	5	0	6	0	07035	Farmacia
+07345	F1719	Práctica Profesional Nivel II	2023	28	0	0	0	0	07035	Farmacia

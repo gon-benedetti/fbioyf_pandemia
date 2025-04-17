@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Química Analítica II	2017	182	83	99	AC016	Farmacia
+07345	07035	Química Analítica II	2018	131	71	60	AC016	Farmacia
+07345	07035	Química Analítica II	2019	114	41	73	AC016	Farmacia
+07345	07035	Química Analítica II	2020	48	20	28	AC016	Farmacia
+07345	07035	Química Analítica II	2021	70	39	31	AC016	Farmacia
+07345	07035	Química Analítica II	2022	102	47	55	AC016	Farmacia
+07345	07035	Química Analítica II	2023	28	12	16	AC016	Farmacia

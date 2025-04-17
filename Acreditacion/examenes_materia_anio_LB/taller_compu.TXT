@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07075	Taller de Computación	2017	0	0	0	AC020	Licenciatura en Biotecnología
+07345	07075	Taller de Computación	2018	0	0	0	AC020	Licenciatura en Biotecnología
+07345	07075	Taller de Computación	2019	23	23	0	AC020	Licenciatura en Biotecnología
+07345	07075	Taller de Computación	2020	34	33	1	AC020	Licenciatura en Biotecnología
+07345	07075	Taller de Computación	2021	13	13	0	AC020	Licenciatura en Biotecnología
+07345	07075	Taller de Computación	2022	6	5	1	AC020	Licenciatura en Biotecnología
+07345	07075	Taller de Computación	2023	1	1	0	AC020	Licenciatura en Biotecnología

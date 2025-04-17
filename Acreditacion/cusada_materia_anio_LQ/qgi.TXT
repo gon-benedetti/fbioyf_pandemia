@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC001	Química General e Inorgánica	2017	46	11	0	0	37	07055	Licenciatura en Química
+07345	AC001	Química General e Inorgánica	2018	55	9	0	0	63	07055	Licenciatura en Química
+07345	AC001	Química General e Inorgánica	2019	81	16	12	0	92	07055	Licenciatura en Química
+07345	AC001	Química General e Inorgánica	2020	75	23	0	0	59	07055	Licenciatura en Química
+07345	AC001	Química General e Inorgánica	2021	94	18	0	0	81	07055	Licenciatura en Química
+07345	AC001	Química General e Inorgánica	2022	82	13	0	0	95	07055	Licenciatura en Química
+07345	AC001	Química General e Inorgánica	2023	92	2	0	0	1	07055	Licenciatura en Química

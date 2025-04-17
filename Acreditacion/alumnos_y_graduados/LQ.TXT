@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_carrera	anio_academico	postulantes	ingresantes	alumnos	egresados
+07345	07055	Licenciatura en Química	2017	47	0	0	0
+07345	07055	Licenciatura en Química	2018	53	0	0	0
+07345	07055	Licenciatura en Química	2019	71	71	234	8
+07345	07055	Licenciatura en Química	2020	54	52	229	5
+07345	07055	Licenciatura en Química	2021	65	63	253	12
+07345	07055	Licenciatura en Química	2022	65	61	247	12
+07345	07055	Licenciatura en Química	2023	65	0	0	0

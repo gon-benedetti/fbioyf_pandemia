@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC016	Química Analítica II	2017	100	66	25	0	9	07035	Farmacia
+07345	AC016	Química Analítica II	2018	109	77	25	0	11	07035	Farmacia
+07345	AC016	Química Analítica II	2019	65	36	20	0	9	07035	Farmacia
+07345	AC016	Química Analítica II	2020	82	67	4	0	11	07035	Farmacia
+07345	AC016	Química Analítica II	2021	53	34	9	0	11	07035	Farmacia
+07345	AC016	Química Analítica II	2022	40	15	19	0	6	07035	Farmacia
+07345	AC016	Química Analítica II	2023	37	0	0	0	0	07035	Farmacia

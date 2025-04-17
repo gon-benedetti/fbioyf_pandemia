@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	BEO33	Tecnologías, salud y acción social profesional: prevención y	2017	0	0	0	0	0	07015	Bioquímica
+07345	BEO33	Tecnologías, salud y acción social profesional: prevención y	2018	0	0	0	0	0	07015	Bioquímica
+07345	BEO33	Tecnologías, salud y acción social profesional: prevención y	2019	0	0	0	0	0	07015	Bioquímica
+07345	BEO33	Tecnologías, salud y acción social profesional: prevención y	2020	0	0	0	0	0	07015	Bioquímica
+07345	BEO33	Tecnologías, salud y acción social profesional: prevención y	2021	0	0	0	0	0	07015	Bioquímica
+07345	BEO33	Tecnologías, salud y acción social profesional: prevención y	2022	2	0	0	2	0	07015	Bioquímica
+07345	BEO33	Tecnologías, salud y acción social profesional: prevención y	2023	1	0	0	0	0	07015	Bioquímica

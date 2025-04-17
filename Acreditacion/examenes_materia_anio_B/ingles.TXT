@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Inglés	2017	103	75	28	AC008	Bioquímica
+07345	07015	Inglés	2018	69	56	13	AC008	Bioquímica
+07345	07015	Inglés	2019	42	31	11	AC008	Bioquímica
+07345	07015	Inglés	2020	9	9	0	AC008	Bioquímica
+07345	07015	Inglés	2021	7	6	1	AC008	Bioquímica
+07345	07015	Inglés	2022	5	3	2	AC008	Bioquímica
+07345	07015	Inglés	2023	2	0	2	AC008	Bioquímica

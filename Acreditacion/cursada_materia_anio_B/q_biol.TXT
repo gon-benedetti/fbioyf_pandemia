@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B0603	Química Biológica	2017	129	76	35	0	22	07015	Bioquímica
+07345	B0603	Química Biológica	2018	121	84	25	0	21	07015	Bioquímica
+07345	B0603	Química Biológica	2019	81	55	19	0	20	07015	Bioquímica
+07345	B0603	Química Biológica	2020	45	39	3	0	4	07015	Bioquímica
+07345	B0603	Química Biológica	2021	11	8	0	0	3	07015	Bioquímica
+07345	B0603	Química Biológica	2022	2	1	0	0	1	07015	Bioquímica
+07345	B0603	Química Biológica	2023	0	0	0	0	0	07015	Bioquímica

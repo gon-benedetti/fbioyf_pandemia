@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0606	Biología Molecular	2017	57	49	7		07015	Bioquímica	Cursante
+07345	B0606	Biología Molecular	2017	17	11	6		07015	Bioquímica	Recursante
+07345	B0606	Biología Molecular	2018	77	70	6		07015	Bioquímica	Cursante
+07345	B0606	Biología Molecular	2018	11	8	4		07015	Bioquímica	Recursante
+07345	B0606	Biología Molecular	2019	74	36	35		07015	Bioquímica	Cursante
+07345	B0606	Biología Molecular	2019	33	14	18		07015	Bioquímica	Recursante
+07345	B0606	Biología Molecular	2020	42	21	18		07015	Bioquímica	Cursante
+07345	B0606	Biología Molecular	2020	82	68	17		07015	Bioquímica	Recursante
+07345	B0606	Biología Molecular	2021	53	20	27		07015	Bioquímica	Cursante
+07345	B0606	Biología Molecular	2021	15	6	8		07015	Bioquímica	Recursante
+07345	B0606	Biología Molecular	2022	10	2	7		07015	Bioquímica	Cursante
+07345	B0606	Biología Molecular	2022	37	24	13		07015	Bioquímica	Recursante
+07345	B0606	Biología Molecular	2023	2	2			07015	Bioquímica	Cursante
+07345	B0606	Biología Molecular	2023	8	3	5		07015	Bioquímica	Recursante

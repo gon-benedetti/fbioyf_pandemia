@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B0615	Bioquímica Clínica y Fisiopatología	2017	47	39	0	0	6	07015	Bioquímica
+07345	B0615	Bioquímica Clínica y Fisiopatología	2018	69	63	0	0	7	07015	Bioquímica
+07345	B0615	Bioquímica Clínica y Fisiopatología	2019	59	39	0	0	20	07015	Bioquímica
+07345	B0615	Bioquímica Clínica y Fisiopatología	2020	71	56	0	0	13	07015	Bioquímica
+07345	B0615	Bioquímica Clínica y Fisiopatología	2021	60	53	0	0	8	07015	Bioquímica
+07345	B0615	Bioquímica Clínica y Fisiopatología	2022	38	36	0	0	7	07015	Bioquímica
+07345	B0615	Bioquímica Clínica y Fisiopatología	2023	36	0	0	0	0	07015	Bioquímica

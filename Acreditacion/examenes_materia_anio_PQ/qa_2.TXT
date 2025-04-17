@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07715	Química Analítica II	2017	11	3	8	AC016	Profesorado en Química
+07345	07715	Química Analítica II	2018	6	3	3	AC016	Profesorado en Química
+07345	07715	Química Analítica II	2019	15	5	10	AC016	Profesorado en Química
+07345	07715	Química Analítica II	2020	3	2	1	AC016	Profesorado en Química
+07345	07715	Química Analítica II	2021	1	1	0	AC016	Profesorado en Química
+07345	07715	Química Analítica II	2022	3	0	3	AC016	Profesorado en Química
+07345	07715	Química Analítica II	2023	2	1	1	AC016	Profesorado en Química

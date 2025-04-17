@@ -1,0 +1,13 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0606	Farmacobotánica	2017	89	55	31		07035	Farmacia	Cursante
+07345	F0606	Farmacobotánica	2017	46	26	20		07035	Farmacia	Recursante
+07345	F0606	Farmacobotánica	2018	70	32	38		07035	Farmacia	Cursante
+07345	F0606	Farmacobotánica	2018	40	19	21		07035	Farmacia	Recursante
+07345	F0606	Farmacobotánica	2019	35	18	16		07035	Farmacia	Cursante
+07345	F0606	Farmacobotánica	2019	61	26	34		07035	Farmacia	Recursante
+07345	F0606	Farmacobotánica	2020	35	28	7		07035	Farmacia	Cursante
+07345	F0606	Farmacobotánica	2020	56	26	13		07035	Farmacia	Recursante
+07345	F0606	Farmacobotánica	2021	8	3	5		07035	Farmacia	Cursante
+07345	F0606	Farmacobotánica	2021	19	10	9		07035	Farmacia	Recursante
+07345	F0606	Farmacobotánica	2022	1	1			07035	Farmacia	Cursante
+07345	F0606	Farmacobotánica	2022	11	3	7		07035	Farmacia	Recursante

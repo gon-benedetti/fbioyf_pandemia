@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC008	Inglés	2017	5	3	0	0	2	07715	Profesorado en Química
+07345	AC008	Inglés	2018	8	4	0	0	4	07715	Profesorado en Química
+07345	AC008	Inglés	2019	0	0	0	0	0	07715	Profesorado en Química
+07345	AC008	Inglés	2020	0	0	0	0	0	07715	Profesorado en Química
+07345	AC008	Inglés	2021	0	0	0	0	0	07715	Profesorado en Química
+07345	AC008	Inglés	2022	1	0	0	0	1	07715	Profesorado en Química
+07345	AC008	Inglés	2023	0	0	0	0	0	07715	Profesorado en Química

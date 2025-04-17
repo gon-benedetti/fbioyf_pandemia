@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC001	Química General e Inorgánica	2017	14	1	14		07715	Profesorado en Química	Cursante
+07345	AC001	Química General e Inorgánica	2017	5		5		07715	Profesorado en Química	Recursante
+07345	AC001	Química General e Inorgánica	2018	22	1	21		07715	Profesorado en Química	Cursante
+07345	AC001	Química General e Inorgánica	2018	10	1	10		07715	Profesorado en Química	Recursante
+07345	AC001	Química General e Inorgánica	2019	17		16		07715	Profesorado en Química	Cursante
+07345	AC001	Química General e Inorgánica	2019	14	1	12		07715	Profesorado en Química	Recursante
+07345	AC001	Química General e Inorgánica	2020	12	1	11		07715	Profesorado en Química	Cursante
+07345	AC001	Química General e Inorgánica	2020	11	2	8		07715	Profesorado en Química	Recursante
+07345	AC001	Química General e Inorgánica	2021	19		18		07715	Profesorado en Química	Cursante
+07345	AC001	Química General e Inorgánica	2021	6	1	5		07715	Profesorado en Química	Recursante
+07345	AC001	Química General e Inorgánica	2022	12	2	10		07715	Profesorado en Química	Cursante
+07345	AC001	Química General e Inorgánica	2022	7		7		07715	Profesorado en Química	Recursante
+07345	AC001	Química General e Inorgánica	2023	14				07715	Profesorado en Química	Cursante
+07345	AC001	Química General e Inorgánica	2023	5				07715	Profesorado en Química	Recursante

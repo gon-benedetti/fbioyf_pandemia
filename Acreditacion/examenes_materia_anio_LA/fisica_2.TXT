@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07309	Física II	2017	12	7	5	AC007	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Física II	2018	12	6	6	AC007	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Física II	2019	14	8	6	AC007	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Física II	2020	13	4	9	AC007	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Física II	2021	11	6	5	AC007	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Física II	2022	10	5	5	AC007	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Física II	2023	7	0	7	AC007	Licenciatura en Ciencia y Tecnología de los Alimentos

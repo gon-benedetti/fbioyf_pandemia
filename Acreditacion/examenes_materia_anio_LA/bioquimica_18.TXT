@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07309	Bioquímica	2017	0	0	0	A1803	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Bioquímica	2018	0	0	0	A1803	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Bioquímica	2019	0	0	0	A1803	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Bioquímica	2020	2	2	0	A1803	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Bioquímica	2021	13	5	8	A1803	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Bioquímica	2022	12	10	2	A1803	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Bioquímica	2023	4	4	0	A1803	Licenciatura en Ciencia y Tecnología de los Alimentos

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07309	Química Orgánica II	2017	12	11	1	AC010	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Orgánica II	2018	12	8	4	AC010	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Orgánica II	2019	2	2	0	AC010	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Orgánica II	2020	1	1	0	AC010	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Orgánica II	2021	8	6	2	AC010	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Orgánica II	2022	11	8	3	AC010	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	07309	Química Orgánica II	2023	3	3	0	AC010	Licenciatura en Ciencia y Tecnología de los Alimentos

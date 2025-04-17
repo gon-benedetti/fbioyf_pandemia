@@ -1,0 +1,3 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC020	Taller de Computación	2020	1				07715	Profesorado en Química	Cursante
+07345	AC020	Taller de Computación	2023	3		1		07715	Profesorado en Química	Cursante

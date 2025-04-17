@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC013	Estadística	2017	59	26	32		07035	Farmacia	Cursante
+07345	AC013	Estadística	2017	99	38	62		07035	Farmacia	Recursante
+07345	AC013	Estadística	2018	48	15	30		07035	Farmacia	Cursante
+07345	AC013	Estadística	2018	87	17	71		07035	Farmacia	Recursante
+07345	AC013	Estadística	2019	50	23	25		07035	Farmacia	Cursante
+07345	AC013	Estadística	2019	88	27	61		07035	Farmacia	Recursante
+07345	AC013	Estadística	2020	50	23	21		07035	Farmacia	Cursante
+07345	AC013	Estadística	2020	86	20	60		07035	Farmacia	Recursante
+07345	AC013	Estadística	2021	39	10	23		07035	Farmacia	Cursante
+07345	AC013	Estadística	2021	83	20	61		07035	Farmacia	Recursante
+07345	AC013	Estadística	2022	29	13	14		07035	Farmacia	Cursante
+07345	AC013	Estadística	2022	69	16	53		07035	Farmacia	Recursante
+07345	AC013	Estadística	2023	37		1		07035	Farmacia	Cursante
+07345	AC013	Estadística	2023	57	1	16		07035	Farmacia	Recursante

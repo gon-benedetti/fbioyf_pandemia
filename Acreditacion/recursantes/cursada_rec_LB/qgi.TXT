@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC001	Química General e Inorgánica	2017	130	54	80		07075	Licenciatura en Biotecnología	Cursante
+07345	AC001	Química General e Inorgánica	2017	46	12	34		07075	Licenciatura en Biotecnología	Recursante
+07345	AC001	Química General e Inorgánica	2018	133	37	105		07075	Licenciatura en Biotecnología	Cursante
+07345	AC001	Química General e Inorgánica	2018	77	5	72		07075	Licenciatura en Biotecnología	Recursante
+07345	AC001	Química General e Inorgánica	2019	146	36	110		07075	Licenciatura en Biotecnología	Cursante
+07345	AC001	Química General e Inorgánica	2019	221	37	170		07075	Licenciatura en Biotecnología	Recursante
+07345	AC001	Química General e Inorgánica	2020	172	48	130		07075	Licenciatura en Biotecnología	Cursante
+07345	AC001	Química General e Inorgánica	2020	106	62	51		07075	Licenciatura en Biotecnología	Recursante
+07345	AC001	Química General e Inorgánica	2021	245	53	191		07075	Licenciatura en Biotecnología	Cursante
+07345	AC001	Química General e Inorgánica	2021	110	44	79		07075	Licenciatura en Biotecnología	Recursante
+07345	AC001	Química General e Inorgánica	2022	237	52	186		07075	Licenciatura en Biotecnología	Cursante
+07345	AC001	Química General e Inorgánica	2022	225	33	189		07075	Licenciatura en Biotecnología	Recursante
+07345	AC001	Química General e Inorgánica	2023	243				07075	Licenciatura en Biotecnología	Cursante
+07345	AC001	Química General e Inorgánica	2023	150		4		07075	Licenciatura en Biotecnología	Recursante

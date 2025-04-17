@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Fisiología	2017	97	72	25	F0605	Farmacia
+07345	07035	Fisiología	2018	66	47	19	F0605	Farmacia
+07345	07035	Fisiología	2019	96	61	35	F0605	Farmacia
+07345	07035	Fisiología	2020	36	27	9	F0605	Farmacia
+07345	07035	Fisiología	2021	52	36	16	F0605	Farmacia
+07345	07035	Fisiología	2022	71	42	29	F0605	Farmacia
+07345	07035	Fisiología	2023	30	15	15	F0605	Farmacia

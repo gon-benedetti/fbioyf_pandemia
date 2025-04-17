@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Epistemología y Metodología de la Investigación II	2017	82	76	6	AC018	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación II	2018	75	62	13	AC018	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación II	2019	54	39	15	AC018	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación II	2020	20	20	0	AC018	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación II	2021	54	53	1	AC018	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación II	2022	26	23	3	AC018	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación II	2023	2	2	0	AC018	Bioquímica

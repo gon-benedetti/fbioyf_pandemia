@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC005	Biología	2017	97	47	7	0	44	07035	Farmacia
+07345	AC005	Biología	2018	107	44	47	0	20	07035	Farmacia
+07345	AC005	Biología	2019	99	38	0	0	62	07035	Farmacia
+07345	AC005	Biología	2020	80	135	1	0	7	07035	Farmacia
+07345	AC005	Biología	2021	58	46	2	0	9	07035	Farmacia
+07345	AC005	Biología	2022	49	20	14	0	15	07035	Farmacia
+07345	AC005	Biología	2023	50	28	12	0	10	07035	Farmacia

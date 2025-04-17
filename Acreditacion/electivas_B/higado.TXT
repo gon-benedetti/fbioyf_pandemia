@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	BEO16	Higado y Laboratorio.Interpretación y selección de pruebas e	2017	0	0	0	0	0	07015	Bioquímica
+07345	BEO16	Higado y Laboratorio.Interpretación y selección de pruebas e	2018	35	23	0	0	12	07015	Bioquímica
+07345	BEO16	Higado y Laboratorio.Interpretación y selección de pruebas e	2019	0	0	0	0	0	07015	Bioquímica
+07345	BEO16	Higado y Laboratorio.Interpretación y selección de pruebas e	2020	33	28	0	0	5	07015	Bioquímica
+07345	BEO16	Higado y Laboratorio.Interpretación y selección de pruebas e	2021	0	0	0	0	0	07015	Bioquímica
+07345	BEO16	Higado y Laboratorio.Interpretación y selección de pruebas e	2022	19	18	0	0	1	07015	Bioquímica
+07345	BEO16	Higado y Laboratorio.Interpretación y selección de pruebas e	2023	0	0	0	0	0	07015	Bioquímica

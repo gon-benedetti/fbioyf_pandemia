@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07055	Inglés	2017	0	0	0	AC008	Licenciatura en Química
+07345	07055	Inglés	2018	0	0	0	AC008	Licenciatura en Química
+07345	07055	Inglés	2019	0	0	0	AC008	Licenciatura en Química
+07345	07055	Inglés	2020	0	0	0	AC008	Licenciatura en Química
+07345	07055	Inglés	2021	0	0	0	AC008	Licenciatura en Química
+07345	07055	Inglés	2022	0	0	0	AC008	Licenciatura en Química
+07345	07055	Inglés	2023	0	0	0	AC008	Licenciatura en Química

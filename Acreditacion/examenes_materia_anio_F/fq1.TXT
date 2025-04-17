@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Fisicoquímica I	2017	103	50	53	AC012	Farmacia
+07345	07035	Fisicoquímica I	2018	90	39	51	AC012	Farmacia
+07345	07035	Fisicoquímica I	2019	156	49	107	AC012	Farmacia
+07345	07035	Fisicoquímica I	2020	99	48	51	AC012	Farmacia
+07345	07035	Fisicoquímica I	2021	89	44	45	AC012	Farmacia
+07345	07035	Fisicoquímica I	2022	45	26	19	AC012	Farmacia
+07345	07035	Fisicoquímica I	2023	15	9	6	AC012	Farmacia

@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC002	Matemática I	2017	21	4	1	0	24	07715	Profesorado en Química
+07345	AC002	Matemática I	2018	27	3	3	0	29	07715	Profesorado en Química
+07345	AC002	Matemática I	2019	21	5	1	0	19	07715	Profesorado en Química
+07345	AC002	Matemática I	2020	14	16	0	0	3	07715	Profesorado en Química
+07345	AC002	Matemática I	2021	21	3	4	0	20	07715	Profesorado en Química
+07345	AC002	Matemática I	2022	17	3	3	0	12	07715	Profesorado en Química
+07345	AC002	Matemática I	2023	19	0	7	0	13	07715	Profesorado en Química

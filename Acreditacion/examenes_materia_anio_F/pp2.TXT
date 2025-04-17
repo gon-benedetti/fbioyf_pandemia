@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Práctica Profesional Nivel II	2017	84	84	0	F0622	Farmacia
+07345	07035	Práctica Profesional Nivel II	2018	73	73	0	F0622	Farmacia
+07345	07035	Práctica Profesional Nivel II	2019	69	69	0	F0622	Farmacia
+07345	07035	Práctica Profesional Nivel II	2020	69	69	0	F0622	Farmacia
+07345	07035	Práctica Profesional Nivel II	2021	52	52	0	F0622	Farmacia
+07345	07035	Práctica Profesional Nivel II	2022	15	15	0	F0622	Farmacia
+07345	07035	Práctica Profesional Nivel II	2023	3	3	0	F0622	Farmacia

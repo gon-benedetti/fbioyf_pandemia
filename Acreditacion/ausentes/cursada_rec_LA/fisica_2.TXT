@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC007	Física II	2017	15	11	3		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC007	Física II	2017	6	5	1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC007	Física II	2018	4	2	1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC007	Física II	2018		1			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC007	Física II	2019	13	8	5		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC007	Física II	2019	6	2	4		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC007	Física II	2020	23	4	19		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC007	Física II	2020	17	8	7		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC007	Física II	2021	5	2	3		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC007	Física II	2021	12	5	6		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC007	Física II	2022	10	4	5		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC007	Física II	2022	13	5	8		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC007	Física II	2023	2	1	1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC007	Física II	2023	7	1	2		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante

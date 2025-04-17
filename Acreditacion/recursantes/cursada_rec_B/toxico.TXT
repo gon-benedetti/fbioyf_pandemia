@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0620	Toxicología	2017	64	57	4		07015	Bioquímica	Cursante
+07345	B0620	Toxicología	2017	1	1			07015	Bioquímica	Recursante
+07345	B0620	Toxicología	2018	59	42	14		07015	Bioquímica	Cursante
+07345	B0620	Toxicología	2018	4	3	1		07015	Bioquímica	Recursante
+07345	B0620	Toxicología	2019	64	58	5		07015	Bioquímica	Cursante
+07345	B0620	Toxicología	2019	13	12	1		07015	Bioquímica	Recursante
+07345	B0620	Toxicología	2020	59	53	1		07015	Bioquímica	Cursante
+07345	B0620	Toxicología	2020	7	6			07015	Bioquímica	Recursante
+07345	B0620	Toxicología	2021	49	42	1		07015	Bioquímica	Cursante
+07345	B0620	Toxicología	2021	2		1		07015	Bioquímica	Recursante
+07345	B0620	Toxicología	2022	35	17	17		07015	Bioquímica	Cursante
+07345	B0620	Toxicología	2022	2		2		07015	Bioquímica	Recursante
+07345	B0620	Toxicología	2023	23				07015	Bioquímica	Cursante
+07345	B0620	Toxicología	2023	12				07015	Bioquímica	Recursante

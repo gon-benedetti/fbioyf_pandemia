@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0608	Farmacología	2017	52	47	3		07015	Bioquímica	Cursante
+07345	B0608	Farmacología	2017	12	4	8		07015	Bioquímica	Recursante
+07345	B0608	Farmacología	2018	74	65	11		07015	Bioquímica	Cursante
+07345	B0608	Farmacología	2018	8	2	6		07015	Bioquímica	Recursante
+07345	B0608	Farmacología	2019	59	41	12		07015	Bioquímica	Cursante
+07345	B0608	Farmacología	2019	11	12			07015	Bioquímica	Recursante
+07345	B0608	Farmacología	2020	53	50			07015	Bioquímica	Cursante
+07345	B0608	Farmacología	2020	51	55			07015	Bioquímica	Recursante
+07345	B0608	Farmacología	2021	56	44	5		07015	Bioquímica	Cursante
+07345	B0608	Farmacología	2021	16	9	7		07015	Bioquímica	Recursante
+07345	B0608	Farmacología	2022	13	9	2		07015	Bioquímica	Cursante
+07345	B0608	Farmacología	2022	9	5	2		07015	Bioquímica	Recursante
+07345	B0608	Farmacología	2023	8	4	3		07015	Bioquímica	Cursante
+07345	B0608	Farmacología	2023	7	4	3		07015	Bioquímica	Recursante

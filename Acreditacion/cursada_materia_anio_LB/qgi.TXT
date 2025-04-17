@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC001	Química General e Inorgánica	2017	176	66	0	0	114	07075	Licenciatura en Biotecnología
+07345	AC001	Química General e Inorgánica	2018	183	42	0	0	177	07075	Licenciatura en Biotecnología
+07345	AC001	Química General e Inorgánica	2019	225	73	52	0	228	07075	Licenciatura en Biotecnología
+07345	AC001	Química General e Inorgánica	2020	242	110	0	0	181	07075	Licenciatura en Biotecnología
+07345	AC001	Química General e Inorgánica	2021	340	97	0	0	270	07075	Licenciatura en Biotecnología
+07345	AC001	Química General e Inorgánica	2022	354	85	0	0	375	07075	Licenciatura en Biotecnología
+07345	AC001	Química General e Inorgánica	2023	385	0	0	0	4	07075	Licenciatura en Biotecnología

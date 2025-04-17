@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC012	Fisicoquímica I	2017	18	14	2	0	2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC012	Fisicoquímica I	2018	8	5	5	0	1	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC012	Fisicoquímica I	2019	12	8	7	0	1	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC012	Fisicoquímica I	2020	12	5	0	0	9	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC012	Fisicoquímica I	2021	18	11	6	0	2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC012	Fisicoquímica I	2022	10	4	5	0	2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC012	Fisicoquímica I	2023	8	0	0	0	0	07309	Licenciatura en Ciencia y Tecnología de los Alimentos

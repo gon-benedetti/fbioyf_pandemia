@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC003	Física I	2017	93	39	39		07015	Bioquímica	Cursante
+07345	AC003	Física I	2017	49	16	33		07015	Bioquímica	Recursante
+07345	AC003	Física I	2018	114	67	46		07015	Bioquímica	Cursante
+07345	AC003	Física I	2018	56	24	30		07015	Bioquímica	Recursante
+07345	AC003	Física I	2019	117	71	43		07015	Bioquímica	Cursante
+07345	AC003	Física I	2019	88	32	52		07015	Bioquímica	Recursante
+07345	AC003	Física I	2020	177	32	142		07015	Bioquímica	Cursante
+07345	AC003	Física I	2020	67	12	52		07015	Bioquímica	Recursante
+07345	AC003	Física I	2021	122	38	74		07015	Bioquímica	Cursante
+07345	AC003	Física I	2021	172	56	106		07015	Bioquímica	Recursante
+07345	AC003	Física I	2022	84	46	32		07015	Bioquímica	Cursante
+07345	AC003	Física I	2022	215	27	186		07015	Bioquímica	Recursante
+07345	AC003	Física I	2023	121	7	29		07015	Bioquímica	Cursante
+07345	AC003	Física I	2023	115	17	47		07015	Bioquímica	Recursante

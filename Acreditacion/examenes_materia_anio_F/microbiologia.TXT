@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Microbiología	2017	115	77	38	F0608	Farmacia
+07345	07035	Microbiología	2018	69	46	23	F0608	Farmacia
+07345	07035	Microbiología	2019	94	62	32	F0608	Farmacia
+07345	07035	Microbiología	2020	69	52	17	F0608	Farmacia
+07345	07035	Microbiología	2021	44	30	14	F0608	Farmacia
+07345	07035	Microbiología	2022	50	30	20	F0608	Farmacia
+07345	07035	Microbiología	2023	23	15	8	F0608	Farmacia

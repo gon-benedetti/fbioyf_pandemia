@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Química Analítica I	2017	63	45	18	AC014	Bioquímica
+07345	07015	Química Analítica I	2018	63	47	16	AC014	Bioquímica
+07345	07015	Química Analítica I	2019	85	52	33	AC014	Bioquímica
+07345	07015	Química Analítica I	2020	39	24	15	AC014	Bioquímica
+07345	07015	Química Analítica I	2021	86	62	24	AC014	Bioquímica
+07345	07015	Química Analítica I	2022	89	51	38	AC014	Bioquímica
+07345	07015	Química Analítica I	2023	42	31	11	AC014	Bioquímica

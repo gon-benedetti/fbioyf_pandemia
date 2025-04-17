@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Química Orgánica I	2017	129	71	58	AC006	Bioquímica
+07345	07015	Química Orgánica I	2018	99	51	48	AC006	Bioquímica
+07345	07015	Química Orgánica I	2019	78	52	26	AC006	Bioquímica
+07345	07015	Química Orgánica I	2020	53	32	21	AC006	Bioquímica
+07345	07015	Química Orgánica I	2021	58	31	27	AC006	Bioquímica
+07345	07015	Química Orgánica I	2022	90	47	43	AC006	Bioquímica
+07345	07015	Química Orgánica I	2023	42	26	16	AC006	Bioquímica

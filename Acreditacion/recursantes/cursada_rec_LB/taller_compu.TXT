@@ -1,0 +1,10 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC020	Taller de Computación	2019	26	23	3		07075	Licenciatura en Biotecnología	Cursante
+07345	AC020	Taller de Computación	2020	68	37	11		07075	Licenciatura en Biotecnología	Cursante
+07345	AC020	Taller de Computación	2020	2		1		07075	Licenciatura en Biotecnología	Recursante
+07345	AC020	Taller de Computación	2021	49	10	6	39	07075	Licenciatura en Biotecnología	Cursante
+07345	AC020	Taller de Computación	2021	7		1	5	07075	Licenciatura en Biotecnología	Recursante
+07345	AC020	Taller de Computación	2022	89	4	12	70	07075	Licenciatura en Biotecnología	Cursante
+07345	AC020	Taller de Computación	2022	9		1	8	07075	Licenciatura en Biotecnología	Recursante
+07345	AC020	Taller de Computación	2023	114	2	4	30	07075	Licenciatura en Biotecnología	Cursante
+07345	AC020	Taller de Computación	2023	10		2	2	07075	Licenciatura en Biotecnología	Recursante

@@ -1,0 +1,14 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0611	Farmacología	2017	74	62	8		07035	Farmacia	Cursante
+07345	F0611	Farmacología	2017	22	16	5		07035	Farmacia	Recursante
+07345	F0611	Farmacología	2018	94	85	8		07035	Farmacia	Cursante
+07345	F0611	Farmacología	2018	12	8	4		07035	Farmacia	Recursante
+07345	F0611	Farmacología	2019	69	56	8		07035	Farmacia	Cursante
+07345	F0611	Farmacología	2019	6	5			07035	Farmacia	Recursante
+07345	F0611	Farmacología	2020	58	43	3		07035	Farmacia	Cursante
+07345	F0611	Farmacología	2020	9	6	3		07035	Farmacia	Recursante
+07345	F0611	Farmacología	2021	36	21	2		07035	Farmacia	Cursante
+07345	F0611	Farmacología	2021	2	1	1		07035	Farmacia	Recursante
+07345	F0611	Farmacología	2022	29	20	8		07035	Farmacia	Cursante
+07345	F0611	Farmacología	2023	8				07035	Farmacia	Cursante
+07345	F0611	Farmacología	2023	7				07035	Farmacia	Recursante

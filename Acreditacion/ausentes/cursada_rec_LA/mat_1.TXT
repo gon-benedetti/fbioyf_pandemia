@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC002	Matemática I	2017	50	7	46		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC002	Matemática I	2017	29	6	24		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC002	Matemática I	2018	47	14	34		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC002	Matemática I	2018	33	8	24		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC002	Matemática I	2019	49	16	33		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC002	Matemática I	2019	23	6	18		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC002	Matemática I	2020	49	51			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC002	Matemática I	2020	38	23	15		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC002	Matemática I	2021	56	11	44		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC002	Matemática I	2021	34	5	29		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC002	Matemática I	2022	41	4	37		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC002	Matemática I	2022	42	5	37		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC002	Matemática I	2023	49	6	49	2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC002	Matemática I	2023	40	2	8		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante

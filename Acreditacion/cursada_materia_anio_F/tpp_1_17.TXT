@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F1702	Taller de Problemática Profesional I	2017	0	0	0	0	0	07035	Farmacia
+07345	F1702	Taller de Problemática Profesional I	2018	0	0	0	0	0	07035	Farmacia
+07345	F1702	Taller de Problemática Profesional I	2019	1	0	0	0	0	07035	Farmacia
+07345	F1702	Taller de Problemática Profesional I	2020	37	0	1	0	0	07035	Farmacia
+07345	F1702	Taller de Problemática Profesional I	2021	34	14	0	19	2	07035	Farmacia
+07345	F1702	Taller de Problemática Profesional I	2022	37	17	0	18	2	07035	Farmacia
+07345	F1702	Taller de Problemática Profesional I	2023	31	0	0	0	0	07035	Farmacia

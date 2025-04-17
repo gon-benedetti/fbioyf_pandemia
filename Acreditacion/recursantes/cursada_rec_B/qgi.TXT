@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC001	Química General e Inorgánica	2017	195	47	154		07015	Bioquímica	Cursante
+07345	AC001	Química General e Inorgánica	2017	84	18	69		07015	Bioquímica	Recursante
+07345	AC001	Química General e Inorgánica	2018	214	36	174		07015	Bioquímica	Cursante
+07345	AC001	Química General e Inorgánica	2018	167	14	153		07015	Bioquímica	Recursante
+07345	AC001	Química General e Inorgánica	2019	249	37	213		07015	Bioquímica	Cursante
+07345	AC001	Química General e Inorgánica	2019	414	59	318		07015	Bioquímica	Recursante
+07345	AC001	Química General e Inorgánica	2020	238	45	199		07015	Bioquímica	Cursante
+07345	AC001	Química General e Inorgánica	2020	194	98	116		07015	Bioquímica	Recursante
+07345	AC001	Química General e Inorgánica	2021	289	35	253		07015	Bioquímica	Cursante
+07345	AC001	Química General e Inorgánica	2021	162	44	131		07015	Bioquímica	Recursante
+07345	AC001	Química General e Inorgánica	2022	282	33	249		07015	Bioquímica	Cursante
+07345	AC001	Química General e Inorgánica	2022	313	21	290		07015	Bioquímica	Recursante
+07345	AC001	Química General e Inorgánica	2023	232				07015	Bioquímica	Cursante
+07345	AC001	Química General e Inorgánica	2023	203	2	5		07015	Bioquímica	Recursante

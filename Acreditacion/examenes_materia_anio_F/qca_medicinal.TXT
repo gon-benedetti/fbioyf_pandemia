@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Química Medicinal	2017	82	72	10	F0609	Farmacia
+07345	07035	Química Medicinal	2018	70	59	11	F0609	Farmacia
+07345	07035	Química Medicinal	2019	66	52	14	F0609	Farmacia
+07345	07035	Química Medicinal	2020	59	50	9	F0609	Farmacia
+07345	07035	Química Medicinal	2021	24	23	1	F0609	Farmacia
+07345	07035	Química Medicinal	2022	49	40	9	F0609	Farmacia
+07345	07035	Química Medicinal	2023	13	9	4	F0609	Farmacia

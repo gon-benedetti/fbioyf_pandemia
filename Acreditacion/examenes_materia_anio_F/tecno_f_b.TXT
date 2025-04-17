@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Tecnología Farmacéutica y Biofarmacia	2017	82	81	1	F0612	Farmacia
+07345	07035	Tecnología Farmacéutica y Biofarmacia	2018	81	76	5	F0612	Farmacia
+07345	07035	Tecnología Farmacéutica y Biofarmacia	2019	100	85	15	F0612	Farmacia
+07345	07035	Tecnología Farmacéutica y Biofarmacia	2020	48	39	9	F0612	Farmacia
+07345	07035	Tecnología Farmacéutica y Biofarmacia	2021	48	42	6	F0612	Farmacia
+07345	07035	Tecnología Farmacéutica y Biofarmacia	2022	25	23	2	F0612	Farmacia
+07345	07035	Tecnología Farmacéutica y Biofarmacia	2023	24	19	5	F0612	Farmacia

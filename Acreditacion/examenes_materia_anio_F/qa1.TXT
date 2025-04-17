@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Química Analítica I	2017	123	72	51	AC014	Farmacia
+07345	07035	Química Analítica I	2018	89	61	28	AC014	Farmacia
+07345	07035	Química Analítica I	2019	64	35	29	AC014	Farmacia
+07345	07035	Química Analítica I	2020	31	18	13	AC014	Farmacia
+07345	07035	Química Analítica I	2021	98	44	54	AC014	Farmacia
+07345	07035	Química Analítica I	2022	94	56	38	AC014	Farmacia
+07345	07035	Química Analítica I	2023	26	13	13	AC014	Farmacia

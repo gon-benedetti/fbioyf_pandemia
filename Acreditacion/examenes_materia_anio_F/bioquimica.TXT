@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Bioquímica	2017	102	60	42	F0603	Farmacia
+07345	07035	Bioquímica	2018	99	60	39	F0603	Farmacia
+07345	07035	Bioquímica	2019	75	39	36	F0603	Farmacia
+07345	07035	Bioquímica	2020	72	37	35	F0603	Farmacia
+07345	07035	Bioquímica	2021	41	31	10	F0603	Farmacia
+07345	07035	Bioquímica	2022	53	39	14	F0603	Farmacia
+07345	07035	Bioquímica	2023	20	11	9	F0603	Farmacia

@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F1706	Farmacobotánica	2017	0	0	0	0	0	07035	Farmacia
+07345	F1706	Farmacobotánica	2018	0	0	0	0	0	07035	Farmacia
+07345	F1706	Farmacobotánica	2019	10	6	0	0	3	07035	Farmacia
+07345	F1706	Farmacobotánica	2020	42	26	0	0	16	07035	Farmacia
+07345	F1706	Farmacobotánica	2021	48	41	0	0	7	07035	Farmacia
+07345	F1706	Farmacobotánica	2022	34	22	7	0	5	07035	Farmacia
+07345	F1706	Farmacobotánica	2023	36	0	0	0	0	07035	Farmacia

@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC007	Física II	2017	85	63	23	0	27	07035	Farmacia
+07345	AC007	Física II	2018	34	26	6	0	9	07035	Farmacia
+07345	AC007	Física II	2019	71	53	14	0	33	07035	Farmacia
+07345	AC007	Física II	2020	64	45	0	0	51	07035	Farmacia
+07345	AC007	Física II	2021	38	24	0	0	26	07035	Farmacia
+07345	AC007	Física II	2022	50	29	27	0	11	07035	Farmacia
+07345	AC007	Física II	2023	36	15	18	0	4	07035	Farmacia

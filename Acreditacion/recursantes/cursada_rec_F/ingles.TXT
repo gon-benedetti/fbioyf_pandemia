@@ -1,0 +1,12 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC008	Inglés	2017	71	38	33		07035	Farmacia	Cursante
+07345	AC008	Inglés	2017	34	21	13		07035	Farmacia	Recursante
+07345	AC008	Inglés	2018	79	22	48		07035	Farmacia	Cursante
+07345	AC008	Inglés	2018	38	6	29	1	07035	Farmacia	Recursante
+07345	AC008	Inglés	2019	52	14	29	1	07035	Farmacia	Cursante
+07345	AC008	Inglés	2019	46	9	30		07035	Farmacia	Recursante
+07345	AC008	Inglés	2020	21	18	3		07035	Farmacia	Cursante
+07345	AC008	Inglés	2020	21	13	8		07035	Farmacia	Recursante
+07345	AC008	Inglés	2021	1	1			07035	Farmacia	Cursante
+07345	AC008	Inglés	2021	10	4	6		07035	Farmacia	Recursante
+07345	AC008	Inglés	2022	6	1	4	1	07035	Farmacia	Recursante

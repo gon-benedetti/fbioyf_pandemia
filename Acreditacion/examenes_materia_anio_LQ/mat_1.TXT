@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07055	Matemática I	2017	18	9	9	AC002	Licenciatura en Química
+07345	07055	Matemática I	2018	33	11	22	AC002	Licenciatura en Química
+07345	07055	Matemática I	2019	65	20	45	AC002	Licenciatura en Química
+07345	07055	Matemática I	2020	25	13	12	AC002	Licenciatura en Química
+07345	07055	Matemática I	2021	43	13	30	AC002	Licenciatura en Química
+07345	07055	Matemática I	2022	53	17	36	AC002	Licenciatura en Química
+07345	07055	Matemática I	2023	22	6	16	AC002	Licenciatura en Química

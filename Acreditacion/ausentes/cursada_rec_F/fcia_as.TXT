@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0616	Farmacia Asistencial	2017	94	59	21		07035	Farmacia	Cursante
+07345	F0616	Farmacia Asistencial	2017	3	3			07035	Farmacia	Recursante
+07345	F0616	Farmacia Asistencial	2018	85	42	36		07035	Farmacia	Cursante
+07345	F0616	Farmacia Asistencial	2018	3	3			07035	Farmacia	Recursante
+07345	F0616	Farmacia Asistencial	2019	97	67	28		07035	Farmacia	Cursante
+07345	F0616	Farmacia Asistencial	2019	4	2	1		07035	Farmacia	Recursante
+07345	F0616	Farmacia Asistencial	2020	76	72	1		07035	Farmacia	Cursante
+07345	F0616	Farmacia Asistencial	2020	3	2			07035	Farmacia	Recursante
+07345	F0616	Farmacia Asistencial	2021	46	38	8		07035	Farmacia	Cursante
+07345	F0616	Farmacia Asistencial	2021	6	6			07035	Farmacia	Recursante
+07345	F0616	Farmacia Asistencial	2022	26	18	8		07035	Farmacia	Cursante
+07345	F0616	Farmacia Asistencial	2022	4	1	3		07035	Farmacia	Recursante
+07345	F0616	Farmacia Asistencial	2023	24				07035	Farmacia	Cursante
+07345	F0616	Farmacia Asistencial	2023	5				07035	Farmacia	Recursante

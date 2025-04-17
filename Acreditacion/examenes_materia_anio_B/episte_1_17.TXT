@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Epistemología y Metodología de la Investigación I	2017	0	0	0	B1706	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2018	0	0	0	B1706	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2019	2	2	0	B1706	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2020	6	5	1	B1706	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2021	40	40	0	B1706	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2022	30	30	0	B1706	Bioquímica
+07345	07015	Epistemología y Metodología de la Investigación I	2023	5	3	2	B1706	Bioquímica

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07075	Inglés	2017	56	53	3	AC008	Licenciatura en Biotecnología
+07345	07075	Inglés	2018	34	30	4	AC008	Licenciatura en Biotecnología
+07345	07075	Inglés	2019	26	24	2	AC008	Licenciatura en Biotecnología
+07345	07075	Inglés	2020	8	7	1	AC008	Licenciatura en Biotecnología
+07345	07075	Inglés	2021	10	9	1	AC008	Licenciatura en Biotecnología
+07345	07075	Inglés	2022	2	1	1	AC008	Licenciatura en Biotecnología
+07345	07075	Inglés	2023	0	0	0	AC008	Licenciatura en Biotecnología

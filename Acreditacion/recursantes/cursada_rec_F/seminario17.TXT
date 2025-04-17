@@ -1,0 +1,10 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2019	163	4	97		07035	Farmacia	Cursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2020	160	3	107		07035	Farmacia	Cursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2020	12	2	9		07035	Farmacia	Recursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2021	191	21	93	75	07035	Farmacia	Cursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2021	29		23	6	07035	Farmacia	Recursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2022	190	8	96	86	07035	Farmacia	Cursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2022	19	1	18		07035	Farmacia	Recursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2023	178				07035	Farmacia	Cursante
+07345	F1701	Seminario Introductorio a la Problemática Farmaceútica	2023	19				07035	Farmacia	Recursante

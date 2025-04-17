@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC004	Matemática II	2017	129	61	58	0	45	07015	Bioquímica
+07345	AC004	Matemática II	2018	160	55	57	0	81	07015	Bioquímica
+07345	AC004	Matemática II	2019	188	72	109	0	68	07015	Bioquímica
+07345	AC004	Matemática II	2020	251	108	64	0	103	07015	Bioquímica
+07345	AC004	Matemática II	2021	190	64	47	0	108	07015	Bioquímica
+07345	AC004	Matemática II	2022	152	44	73	0	92	07015	Bioquímica
+07345	AC004	Matemática II	2023	171	15	33	0	50	07015	Bioquímica

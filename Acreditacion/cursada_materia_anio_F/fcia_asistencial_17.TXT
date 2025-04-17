@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F1717	Farmacia Asistencial	2017	0	0	0	0	0	07035	Farmacia
+07345	F1717	Farmacia Asistencial	2018	0	0	0	0	0	07035	Farmacia
+07345	F1717	Farmacia Asistencial	2019	0	0	0	0	0	07035	Farmacia
+07345	F1717	Farmacia Asistencial	2020	2	2	0	0	0	07035	Farmacia
+07345	F1717	Farmacia Asistencial	2021	5	5	0	0	0	07035	Farmacia
+07345	F1717	Farmacia Asistencial	2022	10	8	0	0	2	07035	Farmacia
+07345	F1717	Farmacia Asistencial	2023	33	0	0	0	0	07035	Farmacia

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Virología	2017	33	31	2	B0614	Bioquímica
+07345	07015	Virología	2018	45	45	0	B0614	Bioquímica
+07345	07015	Virología	2019	38	38	0	B0614	Bioquímica
+07345	07015	Virología	2020	56	52	4	B0614	Bioquímica
+07345	07015	Virología	2021	18	15	3	B0614	Bioquímica
+07345	07015	Virología	2022	29	25	4	B0614	Bioquímica
+07345	07015	Virología	2023	18	16	2	B0614	Bioquímica

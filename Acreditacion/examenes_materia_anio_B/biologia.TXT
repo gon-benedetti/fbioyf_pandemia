@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Biología	2017	132	73	59	AC005	Bioquímica
+07345	07015	Biología	2018	93	52	41	AC005	Bioquímica
+07345	07015	Biología	2019	101	58	43	AC005	Bioquímica
+07345	07015	Biología	2020	61	33	28	AC005	Bioquímica
+07345	07015	Biología	2021	94	64	30	AC005	Bioquímica
+07345	07015	Biología	2022	92	40	52	AC005	Bioquímica
+07345	07015	Biología	2023	48	35	13	AC005	Bioquímica

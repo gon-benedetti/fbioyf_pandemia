@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0612	Bacteriología	2017	62	53	8		07015	Bioquímica	Cursante
+07345	B0612	Bacteriología	2017	9	7	2		07015	Bioquímica	Recursante
+07345	B0612	Bacteriología	2018	70	51	15		07015	Bioquímica	Cursante
+07345	B0612	Bacteriología	2018	7	6			07015	Bioquímica	Recursante
+07345	B0612	Bacteriología	2019	57	40	13		07015	Bioquímica	Cursante
+07345	B0612	Bacteriología	2019	16	13	2		07015	Bioquímica	Recursante
+07345	B0612	Bacteriología	2020	56	41	10		07015	Bioquímica	Cursante
+07345	B0612	Bacteriología	2020	15	12	3		07015	Bioquímica	Recursante
+07345	B0612	Bacteriología	2021	46	30	8		07015	Bioquímica	Cursante
+07345	B0612	Bacteriología	2021	13	11	2		07015	Bioquímica	Recursante
+07345	B0612	Bacteriología	2022	18	16	1		07015	Bioquímica	Cursante
+07345	B0612	Bacteriología	2022	10	5	4		07015	Bioquímica	Recursante
+07345	B0612	Bacteriología	2023	6				07015	Bioquímica	Cursante
+07345	B0612	Bacteriología	2023	4				07015	Bioquímica	Recursante

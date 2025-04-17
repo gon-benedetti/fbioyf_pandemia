@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC003	Física I	2017	67	22	35		07035	Farmacia	Cursante
+07345	AC003	Física I	2017	50	13	37		07035	Farmacia	Recursante
+07345	AC003	Física I	2018	63	36	24		07035	Farmacia	Cursante
+07345	AC003	Física I	2018	61	26	33		07035	Farmacia	Recursante
+07345	AC003	Física I	2019	66	36	27		07035	Farmacia	Cursante
+07345	AC003	Física I	2019	35	15	19		07035	Farmacia	Recursante
+07345	AC003	Física I	2020	112	16	90		07035	Farmacia	Cursante
+07345	AC003	Física I	2020	23	1	22		07035	Farmacia	Recursante
+07345	AC003	Física I	2021	83	31	37		07035	Farmacia	Cursante
+07345	AC003	Física I	2021	97	34	58		07035	Farmacia	Recursante
+07345	AC003	Física I	2022	48	22	21		07035	Farmacia	Cursante
+07345	AC003	Física I	2022	132	22	108		07035	Farmacia	Recursante
+07345	AC003	Física I	2023	56	2	13		07035	Farmacia	Cursante
+07345	AC003	Física I	2023	87	10	47		07035	Farmacia	Recursante

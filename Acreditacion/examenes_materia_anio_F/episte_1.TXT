@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Epistemología y Metodología de la Investigación I	2017	96	91	5	AC017	Farmacia
+07345	07035	Epistemología y Metodología de la Investigación I	2018	61	42	19	AC017	Farmacia
+07345	07035	Epistemología y Metodología de la Investigación I	2019	43	34	9	AC017	Farmacia
+07345	07035	Epistemología y Metodología de la Investigación I	2020	15	15	0	AC017	Farmacia
+07345	07035	Epistemología y Metodología de la Investigación I	2021	24	23	1	AC017	Farmacia
+07345	07035	Epistemología y Metodología de la Investigación I	2022	5	5	0	AC017	Farmacia
+07345	07035	Epistemología y Metodología de la Investigación I	2023	0	0	0	AC017	Farmacia

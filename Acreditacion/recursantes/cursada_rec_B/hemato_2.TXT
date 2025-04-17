@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0619	Hematología II	2017	62	50	3		07015	Bioquímica	Cursante
+07345	B0619	Hematología II	2017	6	5			07015	Bioquímica	Recursante
+07345	B0619	Hematología II	2018	63	55	2		07015	Bioquímica	Cursante
+07345	B0619	Hematología II	2018	4	3			07015	Bioquímica	Recursante
+07345	B0619	Hematología II	2019	71	57	10		07015	Bioquímica	Cursante
+07345	B0619	Hematología II	2019	3	2			07015	Bioquímica	Recursante
+07345	B0619	Hematología II	2020	38	33	1		07015	Bioquímica	Cursante
+07345	B0619	Hematología II	2020	51	49	1		07015	Bioquímica	Recursante
+07345	B0619	Hematología II	2021	59	53	6		07015	Bioquímica	Cursante
+07345	B0619	Hematología II	2021	2	2			07015	Bioquímica	Recursante
+07345	B0619	Hematología II	2022	51	48	3		07015	Bioquímica	Cursante
+07345	B0619	Hematología II	2022	5	4	1		07015	Bioquímica	Recursante
+07345	B0619	Hematología II	2023	25	13	9		07015	Bioquímica	Cursante
+07345	B0619	Hematología II	2023	5	2	2		07015	Bioquímica	Recursante

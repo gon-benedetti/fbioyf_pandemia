@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Inmunología I	2017	46	38	8	B0609	Bioquímica
+07345	07015	Inmunología I	2018	55	49	6	B0609	Bioquímica
+07345	07015	Inmunología I	2019	63	55	8	B0609	Bioquímica
+07345	07015	Inmunología I	2020	47	39	8	B0609	Bioquímica
+07345	07015	Inmunología I	2021	28	26	2	B0609	Bioquímica
+07345	07015	Inmunología I	2022	46	31	15	B0609	Bioquímica
+07345	07015	Inmunología I	2023	33	25	8	B0609	Bioquímica

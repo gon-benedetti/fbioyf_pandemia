@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B0610	Hematología I	2017	59	57	0	0	3	07015	Bioquímica
+07345	B0610	Hematología I	2018	66	66	0	0	1	07015	Bioquímica
+07345	B0610	Hematología I	2019	49	45	0	0	4	07015	Bioquímica
+07345	B0610	Hematología I	2020	50	40	0	0	3	07015	Bioquímica
+07345	B0610	Hematología I	2021	49	45	0	3	2	07015	Bioquímica
+07345	B0610	Hematología I	2022	19	16	0	0	3	07015	Bioquímica
+07345	B0610	Hematología I	2023	11	0	0	0	0	07015	Bioquímica

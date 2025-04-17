@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07075	Biología	2017	58	50	8	AC005	Licenciatura en Biotecnología
+07345	07075	Biología	2018	62	49	13	AC005	Licenciatura en Biotecnología
+07345	07075	Biología	2019	53	37	16	AC005	Licenciatura en Biotecnología
+07345	07075	Biología	2020	37	24	13	AC005	Licenciatura en Biotecnología
+07345	07075	Biología	2021	62	53	9	AC005	Licenciatura en Biotecnología
+07345	07075	Biología	2022	59	50	9	AC005	Licenciatura en Biotecnología
+07345	07075	Biología	2023	56	42	14	AC005	Licenciatura en Biotecnología

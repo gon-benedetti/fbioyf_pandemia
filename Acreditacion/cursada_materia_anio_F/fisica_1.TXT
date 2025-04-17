@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC003	Física I	2017	87	35	0	0	72	07035	Farmacia
+07345	AC003	Física I	2018	94	62	4	0	53	07035	Farmacia
+07345	AC003	Física I	2019	80	51	3	0	43	07035	Farmacia
+07345	AC003	Física I	2020	112	17	0	0	112	07035	Farmacia
+07345	AC003	Física I	2021	125	65	0	0	95	07035	Farmacia
+07345	AC003	Física I	2022	95	44	81	0	48	07035	Farmacia
+07345	AC003	Física I	2023	83	12	30	0	30	07035	Farmacia

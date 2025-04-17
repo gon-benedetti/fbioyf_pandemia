@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	T1804	Química Biológica	2017	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	T1804	Química Biológica	2018	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	T1804	Química Biológica	2019	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	T1804	Química Biológica	2020	24	21	1	0	2	07075	Licenciatura en Biotecnología
+07345	T1804	Química Biológica	2021	59	51	0	0	8	07075	Licenciatura en Biotecnología
+07345	T1804	Química Biológica	2022	50	37	8	0	5	07075	Licenciatura en Biotecnología
+07345	T1804	Química Biológica	2023	57	0	0	0	0	07075	Licenciatura en Biotecnología

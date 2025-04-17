@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC002	Matemática I	2017	34	12	23		07055	Licenciatura en Química	Cursante
+07345	AC002	Matemática I	2017	23	2	22		07055	Licenciatura en Química	Recursante
+07345	AC002	Matemática I	2018	40	19	25		07055	Licenciatura en Química	Cursante
+07345	AC002	Matemática I	2018	31	2	29		07055	Licenciatura en Química	Recursante
+07345	AC002	Matemática I	2019	62	23	39		07055	Licenciatura en Química	Cursante
+07345	AC002	Matemática I	2019	36	9	27		07055	Licenciatura en Química	Recursante
+07345	AC002	Matemática I	2020	48	48			07055	Licenciatura en Química	Cursante
+07345	AC002	Matemática I	2020	51	33	18		07055	Licenciatura en Química	Recursante
+07345	AC002	Matemática I	2021	61	17	44		07055	Licenciatura en Química	Cursante
+07345	AC002	Matemática I	2021	51	5	45		07055	Licenciatura en Química	Recursante
+07345	AC002	Matemática I	2022	57	14	43		07055	Licenciatura en Química	Cursante
+07345	AC002	Matemática I	2022	46	9	38		07055	Licenciatura en Química	Recursante
+07345	AC002	Matemática I	2023	55	15	39	3	07055	Licenciatura en Química	Cursante
+07345	AC002	Matemática I	2023	57		22	1	07055	Licenciatura en Química	Recursante

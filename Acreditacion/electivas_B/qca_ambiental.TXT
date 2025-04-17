@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	BEO18	Química Ambiental	2017	0	0	0	0	0	07015	Bioquímica
+07345	BEO18	Química Ambiental	2018	6	0	0	0	6	07015	Bioquímica
+07345	BEO18	Química Ambiental	2019	5	2	0	0	3	07015	Bioquímica
+07345	BEO18	Química Ambiental	2020	4	3	0	0	1	07015	Bioquímica
+07345	BEO18	Química Ambiental	2021	4	3	0	0	1	07015	Bioquímica
+07345	BEO18	Química Ambiental	2022	0	0	0	0	0	07015	Bioquímica
+07345	BEO18	Química Ambiental	2023	0	0	0	0	0	07015	Bioquímica

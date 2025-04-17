@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_carrera	anio_academico	postulantes	ingresantes	alumnos	egresados
+07345	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	2017	66	0	0	0
+07345	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	2018	53	0	0	0
+07345	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	2019	64	58	174	1
+07345	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	2020	59	56	184	3
+07345	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	2021	58	57	200	3
+07345	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	2022	47	45	175	2
+07345	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	2023	67	0	0	0

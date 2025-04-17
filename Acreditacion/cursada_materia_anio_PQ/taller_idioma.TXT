@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC021	Taller de Idioma	2017	0	0	0	0	0	07715	Profesorado en Química
+07345	AC021	Taller de Idioma	2018	0	0	0	0	0	07715	Profesorado en Química
+07345	AC021	Taller de Idioma	2019	3	0	0	0	0	07715	Profesorado en Química
+07345	AC021	Taller de Idioma	2020	0	0	0	0	0	07715	Profesorado en Química
+07345	AC021	Taller de Idioma	2021	0	0	0	0	0	07715	Profesorado en Química
+07345	AC021	Taller de Idioma	2022	0	0	0	0	0	07715	Profesorado en Química
+07345	AC021	Taller de Idioma	2023	1	0	0	0	1	07715	Profesorado en Química

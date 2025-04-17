@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Taller de Idioma	2017	0	0	0	AC021	Farmacia
+07345	07035	Taller de Idioma	2018	0	0	0	AC021	Farmacia
+07345	07035	Taller de Idioma	2019	7	4	3	AC021	Farmacia
+07345	07035	Taller de Idioma	2020	16	9	7	AC021	Farmacia
+07345	07035	Taller de Idioma	2021	47	33	14	AC021	Farmacia
+07345	07035	Taller de Idioma	2022	35	23	12	AC021	Farmacia
+07345	07035	Taller de Idioma	2023	16	11	5	AC021	Farmacia

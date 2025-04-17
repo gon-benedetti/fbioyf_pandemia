@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC008	Inglés	2017	100	59	4	0	42	07035	Farmacia
+07345	AC008	Inglés	2018	109	28	8	1	69	07035	Farmacia
+07345	AC008	Inglés	2019	87	23	4	1	55	07035	Farmacia
+07345	AC008	Inglés	2020	42	31	0	0	11	07035	Farmacia
+07345	AC008	Inglés	2021	10	5	0	0	6	07035	Farmacia
+07345	AC008	Inglés	2022	5	1	0	1	4	07035	Farmacia
+07345	AC008	Inglés	2023	0	0	0	0	0	07035	Farmacia

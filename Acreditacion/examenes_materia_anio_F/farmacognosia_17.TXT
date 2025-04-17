@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Farmacognosia	2017	0	0	0	F1708	Farmacia
+07345	07035	Farmacognosia	2018	0	0	0	F1708	Farmacia
+07345	07035	Farmacognosia	2019	0	0	0	F1708	Farmacia
+07345	07035	Farmacognosia	2020	0	0	0	F1708	Farmacia
+07345	07035	Farmacognosia	2021	10	9	1	F1708	Farmacia
+07345	07035	Farmacognosia	2022	6	6	0	F1708	Farmacia
+07345	07035	Farmacognosia	2023	7	7	0	F1708	Farmacia

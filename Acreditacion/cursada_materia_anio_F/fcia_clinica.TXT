@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F0617	Farmacia Clínica	2017	90	87	0	0	3	07035	Farmacia
+07345	F0617	Farmacia Clínica	2018	77	77	0	0	4	07035	Farmacia
+07345	F0617	Farmacia Clínica	2019	93	84	0	0	9	07035	Farmacia
+07345	F0617	Farmacia Clínica	2020	78	74	0	0	4	07035	Farmacia
+07345	F0617	Farmacia Clínica	2021	46	46	0	0	0	07035	Farmacia
+07345	F0617	Farmacia Clínica	2022	33	30	0	0	3	07035	Farmacia
+07345	F0617	Farmacia Clínica	2023	18	0	0	0	0	07035	Farmacia

@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B1709	Inmunología I	2017	0	0	0	0	0	07015	Bioquímica
+07345	B1709	Inmunología I	2018	0	0	0	0	0	07015	Bioquímica
+07345	B1709	Inmunología I	2019	0	0	0	0	0	07015	Bioquímica
+07345	B1709	Inmunología I	2020	6	10	0	0	1	07015	Bioquímica
+07345	B1709	Inmunología I	2021	16	16	0	0	1	07015	Bioquímica
+07345	B1709	Inmunología I	2022	31	31	0	0	1	07015	Bioquímica
+07345	B1709	Inmunología I	2023	33	29	1	0	3	07015	Bioquímica

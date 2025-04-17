@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07075	Química Orgánica II	2017	73	51	22	AC010	Licenciatura en Biotecnología
+07345	07075	Química Orgánica II	2018	65	50	15	AC010	Licenciatura en Biotecnología
+07345	07075	Química Orgánica II	2019	44	42	2	AC010	Licenciatura en Biotecnología
+07345	07075	Química Orgánica II	2020	12	7	5	AC010	Licenciatura en Biotecnología
+07345	07075	Química Orgánica II	2021	63	49	14	AC010	Licenciatura en Biotecnología
+07345	07075	Química Orgánica II	2022	79	51	28	AC010	Licenciatura en Biotecnología
+07345	07075	Química Orgánica II	2023	16	11	5	AC010	Licenciatura en Biotecnología

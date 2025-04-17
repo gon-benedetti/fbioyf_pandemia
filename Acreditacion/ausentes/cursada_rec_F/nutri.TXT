@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0613	Nutrición y Bromatología	2017	83	69	10		07035	Farmacia	Cursante
+07345	F0613	Nutrición y Bromatología	2017	9	7	2		07035	Farmacia	Recursante
+07345	F0613	Nutrición y Bromatología	2018	84	72	10		07035	Farmacia	Cursante
+07345	F0613	Nutrición y Bromatología	2018	10	8	2		07035	Farmacia	Recursante
+07345	F0613	Nutrición y Bromatología	2019	84	74	4		07035	Farmacia	Cursante
+07345	F0613	Nutrición y Bromatología	2019	9	6	3		07035	Farmacia	Recursante
+07345	F0613	Nutrición y Bromatología	2020	38	35	1		07035	Farmacia	Cursante
+07345	F0613	Nutrición y Bromatología	2020	8	6	2		07035	Farmacia	Recursante
+07345	F0613	Nutrición y Bromatología	2021	51	41	3		07035	Farmacia	Cursante
+07345	F0613	Nutrición y Bromatología	2021	1	1			07035	Farmacia	Recursante
+07345	F0613	Nutrición y Bromatología	2022	10	9			07035	Farmacia	Cursante
+07345	F0613	Nutrición y Bromatología	2022	1	1			07035	Farmacia	Recursante
+07345	F0613	Nutrición y Bromatología	2023	9				07035	Farmacia	Cursante
+07345	F0613	Nutrición y Bromatología	2023	2				07035	Farmacia	Recursante

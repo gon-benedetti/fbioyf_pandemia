@@ -1,0 +1,10 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F1705	Microbiología	2019	7	4	3		07035	Farmacia	Cursante
+07345	F1705	Microbiología	2020	28	18	8		07035	Farmacia	Cursante
+07345	F1705	Microbiología	2020	2	2			07035	Farmacia	Recursante
+07345	F1705	Microbiología	2021	43	32	4		07035	Farmacia	Cursante
+07345	F1705	Microbiología	2021	5	3			07035	Farmacia	Recursante
+07345	F1705	Microbiología	2022	22	18	3		07035	Farmacia	Cursante
+07345	F1705	Microbiología	2022	4	1	3		07035	Farmacia	Recursante
+07345	F1705	Microbiología	2023	24				07035	Farmacia	Cursante
+07345	F1705	Microbiología	2023	5				07035	Farmacia	Recursante

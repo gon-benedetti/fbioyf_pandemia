@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC004	Matemática II	2017	25	9	16	0	8	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC004	Matemática II	2018	28	7	18	0	17	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC004	Matemática II	2019	43	16	18	0	22	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC004	Matemática II	2020	51	26	9	0	19	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC004	Matemática II	2021	26	6	8	0	15	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC004	Matemática II	2022	14	3	6	0	11	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC004	Matemática II	2023	22	0	0	0	0	07309	Licenciatura en Ciencia y Tecnología de los Alimentos

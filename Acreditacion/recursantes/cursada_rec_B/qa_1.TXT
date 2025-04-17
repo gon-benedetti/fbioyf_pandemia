@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC014	Química Analítica I	2017	86	73	10		07015	Bioquímica	Cursante
+07345	AC014	Química Analítica I	2017	16	9	6		07015	Bioquímica	Recursante
+07345	AC014	Química Analítica I	2018	62	48	12		07015	Bioquímica	Cursante
+07345	AC014	Química Analítica I	2018	15	9	6		07015	Bioquímica	Recursante
+07345	AC014	Química Analítica I	2019	58	50	4		07015	Bioquímica	Cursante
+07345	AC014	Química Analítica I	2019	17	9	8		07015	Bioquímica	Recursante
+07345	AC014	Química Analítica I	2020	64	54	9		07015	Bioquímica	Cursante
+07345	AC014	Química Analítica I	2020	67	64	3		07015	Bioquímica	Recursante
+07345	AC014	Química Analítica I	2021	50	37	9		07015	Bioquímica	Cursante
+07345	AC014	Química Analítica I	2021	10	7	2		07015	Bioquímica	Recursante
+07345	AC014	Química Analítica I	2022	46	37	7		07015	Bioquímica	Cursante
+07345	AC014	Química Analítica I	2022	11	5	6		07015	Bioquímica	Recursante
+07345	AC014	Química Analítica I	2023	56	45	5		07015	Bioquímica	Cursante
+07345	AC014	Química Analítica I	2023	10	4	6		07015	Bioquímica	Recursante

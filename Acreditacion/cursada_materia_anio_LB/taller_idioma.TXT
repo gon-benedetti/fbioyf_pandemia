@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC021	Taller de Idioma	2017	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	AC021	Taller de Idioma	2018	0	0	0	0	0	07075	Licenciatura en Biotecnología
+07345	AC021	Taller de Idioma	2019	3	0	0	0	2	07075	Licenciatura en Biotecnología
+07345	AC021	Taller de Idioma	2020	20	14	0	0	6	07075	Licenciatura en Biotecnología
+07345	AC021	Taller de Idioma	2021	36	29	0	0	7	07075	Licenciatura en Biotecnología
+07345	AC021	Taller de Idioma	2022	40	15	0	15	13	07075	Licenciatura en Biotecnología
+07345	AC021	Taller de Idioma	2023	38	10	2	17	6	07075	Licenciatura en Biotecnología

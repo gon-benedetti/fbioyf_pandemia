@@ -1,0 +1,12 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC020	Taller de Computación	2018	13	11	2		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC020	Taller de Computación	2019	10	9	1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC020	Taller de Computación	2019	1		1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC020	Taller de Computación	2020	13	6	2		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC020	Taller de Computación	2020	3	2			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC020	Taller de Computación	2021	7	1	1	3	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC020	Taller de Computación	2021	1			1	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC020	Taller de Computación	2022	11		2	8	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC020	Taller de Computación	2022	1	1			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC020	Taller de Computación	2023	11			2	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC020	Taller de Computación	2023	2			1	07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante

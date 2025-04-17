@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	BE03	El laboratorio de fluidos corporales	2017	0	0	0	0	0	07015	Bioquímica
+07345	BE03	El laboratorio de fluidos corporales	2018	15	7	0	0	8	07015	Bioquímica
+07345	BE03	El laboratorio de fluidos corporales	2019	32	15	0	0	17	07015	Bioquímica
+07345	BE03	El laboratorio de fluidos corporales	2020	29	0	0	0	29	07015	Bioquímica
+07345	BE03	El laboratorio de fluidos corporales	2021	5	0	0	0	5	07015	Bioquímica
+07345	BE03	El laboratorio de fluidos corporales	2022	16	14	0	0	2	07015	Bioquímica
+07345	BE03	El laboratorio de fluidos corporales	2023	23	18	0	1	4	07015	Bioquímica

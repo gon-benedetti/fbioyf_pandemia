@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07055	Química Analítica I	2017	12	10	2	AC014	Licenciatura en Química
+07345	07055	Química Analítica I	2018	12	12	0	AC014	Licenciatura en Química
+07345	07055	Química Analítica I	2019	18	16	2	AC014	Licenciatura en Química
+07345	07055	Química Analítica I	2020	8	7	1	AC014	Licenciatura en Química
+07345	07055	Química Analítica I	2021	18	15	3	AC014	Licenciatura en Química
+07345	07055	Química Analítica I	2022	15	13	2	AC014	Licenciatura en Química
+07345	07055	Química Analítica I	2023	1	1	0	AC014	Licenciatura en Química

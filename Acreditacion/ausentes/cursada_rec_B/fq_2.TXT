@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC015	Fisicoquímica II	2017	88	72	14		07015	Bioquímica	Cursante
+07345	AC015	Fisicoquímica II	2017	12	3	7		07015	Bioquímica	Recursante
+07345	AC015	Fisicoquímica II	2018	58	42	15		07015	Bioquímica	Cursante
+07345	AC015	Fisicoquímica II	2018	20	12	9		07015	Bioquímica	Recursante
+07345	AC015	Fisicoquímica II	2019	60	49	8		07015	Bioquímica	Cursante
+07345	AC015	Fisicoquímica II	2019	23	15	7		07015	Bioquímica	Recursante
+07345	AC015	Fisicoquímica II	2020	60	53	6		07015	Bioquímica	Cursante
+07345	AC015	Fisicoquímica II	2020	67	61	4		07015	Bioquímica	Recursante
+07345	AC015	Fisicoquímica II	2021	52	41	3		07015	Bioquímica	Cursante
+07345	AC015	Fisicoquímica II	2021	41	36	5		07015	Bioquímica	Recursante
+07345	AC015	Fisicoquímica II	2022	40	29	9		07015	Bioquímica	Cursante
+07345	AC015	Fisicoquímica II	2022	10	4	5		07015	Bioquímica	Recursante
+07345	AC015	Fisicoquímica II	2023	58	44	10		07015	Bioquímica	Cursante
+07345	AC015	Fisicoquímica II	2023	13	7	6		07015	Bioquímica	Recursante

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07055	Estadística	2017	12	9	3	AC013	Licenciatura en Química
+07345	07055	Estadística	2018	26	18	8	AC013	Licenciatura en Química
+07345	07055	Estadística	2019	17	11	6	AC013	Licenciatura en Química
+07345	07055	Estadística	2020	10	9	1	AC013	Licenciatura en Química
+07345	07055	Estadística	2021	8	7	1	AC013	Licenciatura en Química
+07345	07055	Estadística	2022	15	9	6	AC013	Licenciatura en Química
+07345	07055	Estadística	2023	7	4	3	AC013	Licenciatura en Química

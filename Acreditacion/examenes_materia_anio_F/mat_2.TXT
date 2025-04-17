@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Matemática II	2017	111	41	70	AC004	Farmacia
+07345	07035	Matemática II	2018	101	39	62	AC004	Farmacia
+07345	07035	Matemática II	2019	156	56	100	AC004	Farmacia
+07345	07035	Matemática II	2020	55	18	37	AC004	Farmacia
+07345	07035	Matemática II	2021	71	27	44	AC004	Farmacia
+07345	07035	Matemática II	2022	87	25	62	AC004	Farmacia
+07345	07035	Matemática II	2023	35	8	27	AC004	Farmacia

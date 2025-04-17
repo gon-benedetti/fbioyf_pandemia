@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F0619	Garantía de Calidad de Medicamentos	2017	66	60	0	0	6	07035	Farmacia
+07345	F0619	Garantía de Calidad de Medicamentos	2018	79	68	6	0	6	07035	Farmacia
+07345	F0619	Garantía de Calidad de Medicamentos	2019	101	100	3	0	0	07035	Farmacia
+07345	F0619	Garantía de Calidad de Medicamentos	2020	70	131	0	0	9	07035	Farmacia
+07345	F0619	Garantía de Calidad de Medicamentos	2021	53	47	0	0	6	07035	Farmacia
+07345	F0619	Garantía de Calidad de Medicamentos	2022	29	22	0	0	7	07035	Farmacia
+07345	F0619	Garantía de Calidad de Medicamentos	2023	19	19	0	0	0	07035	Farmacia

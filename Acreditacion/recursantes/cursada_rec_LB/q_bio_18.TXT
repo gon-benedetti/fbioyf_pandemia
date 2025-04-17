@@ -1,0 +1,8 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	T1804	Química Biológica	2020	24	21	3		07075	Licenciatura en Biotecnología	Cursante
+07345	T1804	Química Biológica	2021	62	49	8		07075	Licenciatura en Biotecnología	Cursante
+07345	T1804	Química Biológica	2021	2	2			07075	Licenciatura en Biotecnología	Recursante
+07345	T1804	Química Biológica	2022	49	35	12		07075	Licenciatura en Biotecnología	Cursante
+07345	T1804	Química Biológica	2022	3	2	1		07075	Licenciatura en Biotecnología	Recursante
+07345	T1804	Química Biológica	2023	50				07075	Licenciatura en Biotecnología	Cursante
+07345	T1804	Química Biológica	2023	11				07075	Licenciatura en Biotecnología	Recursante

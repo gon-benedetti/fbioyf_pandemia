@@ -1,0 +1,9 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC021	Taller de Idioma	2019	6		2		07075	Licenciatura en Biotecnología	Cursante
+07345	AC021	Taller de Idioma	2020	35	14	6		07075	Licenciatura en Biotecnología	Cursante
+07345	AC021	Taller de Idioma	2021	56	27	7		07075	Licenciatura en Biotecnología	Cursante
+07345	AC021	Taller de Idioma	2021	4	2			07075	Licenciatura en Biotecnología	Recursante
+07345	AC021	Taller de Idioma	2022	41	12	12	14	07075	Licenciatura en Biotecnología	Cursante
+07345	AC021	Taller de Idioma	2022	5	3	1	1	07075	Licenciatura en Biotecnología	Recursante
+07345	AC021	Taller de Idioma	2023	53	9	7	16	07075	Licenciatura en Biotecnología	Cursante
+07345	AC021	Taller de Idioma	2023	7	1	1	1	07075	Licenciatura en Biotecnología	Recursante

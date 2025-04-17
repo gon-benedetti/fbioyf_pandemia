@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC004	Matemática II	2017	130	38	75	0	68	07035	Farmacia
+07345	AC004	Matemática II	2018	128	48	54	0	67	07035	Farmacia
+07345	AC004	Matemática II	2019	112	43	52	0	49	07035	Farmacia
+07345	AC004	Matemática II	2020	137	57	34	0	57	07035	Farmacia
+07345	AC004	Matemática II	2021	109	37	30	0	58	07035	Farmacia
+07345	AC004	Matemática II	2022	100	24	57	0	68	07035	Farmacia
+07345	AC004	Matemática II	2023	99	6	23	0	35	07035	Farmacia

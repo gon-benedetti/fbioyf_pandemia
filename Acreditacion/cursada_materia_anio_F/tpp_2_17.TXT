@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F1704	Taller de Problemática Profesional II	2017	0	0	0	0	0	07035	Farmacia
+07345	F1704	Taller de Problemática Profesional II	2018	0	0	0	0	0	07035	Farmacia
+07345	F1704	Taller de Problemática Profesional II	2019	5	2	0	0	0	07035	Farmacia
+07345	F1704	Taller de Problemática Profesional II	2020	23	4	0	0	2	07035	Farmacia
+07345	F1704	Taller de Problemática Profesional II	2021	38	1	0	30	7	07035	Farmacia
+07345	F1704	Taller de Problemática Profesional II	2022	28	12	0	15	1	07035	Farmacia
+07345	F1704	Taller de Problemática Profesional II	2023	19	0	0	0	0	07035	Farmacia

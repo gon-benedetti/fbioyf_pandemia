@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC002	Matemática I	2017	130	67	67		07075	Licenciatura en Biotecnología	Cursante
+07345	AC002	Matemática I	2017	69	10	58		07075	Licenciatura en Biotecnología	Recursante
+07345	AC002	Matemática I	2018	135	79	63		07075	Licenciatura en Biotecnología	Cursante
+07345	AC002	Matemática I	2018	73	11	64		07075	Licenciatura en Biotecnología	Recursante
+07345	AC002	Matemática I	2019	145	80	65		07075	Licenciatura en Biotecnología	Cursante
+07345	AC002	Matemática I	2019	75	12	66		07075	Licenciatura en Biotecnología	Recursante
+07345	AC002	Matemática I	2020	177	179			07075	Licenciatura en Biotecnología	Cursante
+07345	AC002	Matemática I	2020	197	113	84		07075	Licenciatura en Biotecnología	Recursante
+07345	AC002	Matemática I	2021	243	118	124		07075	Licenciatura en Biotecnología	Cursante
+07345	AC002	Matemática I	2021	149	32	115		07075	Licenciatura en Biotecnología	Recursante
+07345	AC002	Matemática I	2022	236	81	156		07075	Licenciatura en Biotecnología	Cursante
+07345	AC002	Matemática I	2022	178	42	136		07075	Licenciatura en Biotecnología	Recursante
+07345	AC002	Matemática I	2023	240	66	168	17	07075	Licenciatura en Biotecnología	Cursante
+07345	AC002	Matemática I	2023	189	13	55		07075	Licenciatura en Biotecnología	Recursante

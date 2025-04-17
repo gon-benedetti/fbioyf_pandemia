@@ -1,0 +1,7 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B1711	Hematología I	2020	5	3	1		07015	Bioquímica	Cursante
+07345	B1711	Hematología I	2021	15	13	1		07015	Bioquímica	Cursante
+07345	B1711	Hematología I	2021	1	1			07015	Bioquímica	Recursante
+07345	B1711	Hematología I	2022	29	27	2		07015	Bioquímica	Cursante
+07345	B1711	Hematología I	2023	29				07015	Bioquímica	Cursante
+07345	B1711	Hematología I	2023	1				07015	Bioquímica	Recursante

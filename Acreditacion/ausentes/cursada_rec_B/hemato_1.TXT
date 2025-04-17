@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0610	Hematología I	2017	54	53	1		07015	Bioquímica	Cursante
+07345	B0610	Hematología I	2017	6	4	2		07015	Bioquímica	Recursante
+07345	B0610	Hematología I	2018	66	64			07015	Bioquímica	Cursante
+07345	B0610	Hematología I	2018	3	2	1		07015	Bioquímica	Recursante
+07345	B0610	Hematología I	2019	52	44	3		07015	Bioquímica	Cursante
+07345	B0610	Hematología I	2019	1	1	1		07015	Bioquímica	Recursante
+07345	B0610	Hematología I	2020	55	37	3		07015	Bioquímica	Cursante
+07345	B0610	Hematología I	2020	4	3			07015	Bioquímica	Recursante
+07345	B0610	Hematología I	2021	50	42	2	3	07015	Bioquímica	Cursante
+07345	B0610	Hematología I	2021	3	3			07015	Bioquímica	Recursante
+07345	B0610	Hematología I	2022	18	15	3		07015	Bioquímica	Cursante
+07345	B0610	Hematología I	2022	1	1			07015	Bioquímica	Recursante
+07345	B0610	Hematología I	2023	6				07015	Bioquímica	Cursante
+07345	B0610	Hematología I	2023	4				07015	Bioquímica	Recursante

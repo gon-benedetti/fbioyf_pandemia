@@ -1,0 +1,14 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC008	Inglés	2017	78	33	44		07015	Bioquímica	Cursante
+07345	AC008	Inglés	2017	59	26	32		07015	Bioquímica	Recursante
+07345	AC008	Inglés	2018	97	15	70		07015	Bioquímica	Cursante
+07345	AC008	Inglés	2018	72	19	46	1	07015	Bioquímica	Recursante
+07345	AC008	Inglés	2019	73	10	46	2	07015	Bioquímica	Cursante
+07345	AC008	Inglés	2019	47	12	29	2	07015	Bioquímica	Recursante
+07345	AC008	Inglés	2020	3		3		07015	Bioquímica	Cursante
+07345	AC008	Inglés	2020	11	8	4		07015	Bioquímica	Recursante
+07345	AC008	Inglés	2021	1		1		07015	Bioquímica	Cursante
+07345	AC008	Inglés	2021	6	4	2		07015	Bioquímica	Recursante
+07345	AC008	Inglés	2022	1		1		07015	Bioquímica	Cursante
+07345	AC008	Inglés	2022	6		6		07015	Bioquímica	Recursante
+07345	AC008	Inglés	2023	1		1		07015	Bioquímica	Recursante

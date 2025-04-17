@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07075	Física I	2017	84	67	17	AC003	Licenciatura en Biotecnología
+07345	07075	Física I	2018	56	44	12	AC003	Licenciatura en Biotecnología
+07345	07075	Física I	2019	106	76	30	AC003	Licenciatura en Biotecnología
+07345	07075	Física I	2020	25	16	9	AC003	Licenciatura en Biotecnología
+07345	07075	Física I	2021	143	68	75	AC003	Licenciatura en Biotecnología
+07345	07075	Física I	2022	137	64	73	AC003	Licenciatura en Biotecnología
+07345	07075	Física I	2023	52	28	24	AC003	Licenciatura en Biotecnología

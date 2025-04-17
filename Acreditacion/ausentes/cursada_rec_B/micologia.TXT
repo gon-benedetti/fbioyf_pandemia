@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0616	Micología	2017	68	59	3		07015	Bioquímica	Cursante
+07345	B0616	Micología	2017	1				07015	Bioquímica	Recursante
+07345	B0616	Micología	2018	59	50	2		07015	Bioquímica	Cursante
+07345	B0616	Micología	2018	4	3			07015	Bioquímica	Recursante
+07345	B0616	Micología	2019	72	68	2		07015	Bioquímica	Cursante
+07345	B0616	Micología	2019	4	3			07015	Bioquímica	Recursante
+07345	B0616	Micología	2020	50	42	3		07015	Bioquímica	Cursante
+07345	B0616	Micología	2020	47	44	2		07015	Bioquímica	Recursante
+07345	B0616	Micología	2021	51	46	5		07015	Bioquímica	Cursante
+07345	B0616	Micología	2021	3	4			07015	Bioquímica	Recursante
+07345	B0616	Micología	2022	43	41	2		07015	Bioquímica	Cursante
+07345	B0616	Micología	2022	3	3			07015	Bioquímica	Recursante
+07345	B0616	Micología	2023	20				07015	Bioquímica	Cursante
+07345	B0616	Micología	2023	1				07015	Bioquímica	Recursante

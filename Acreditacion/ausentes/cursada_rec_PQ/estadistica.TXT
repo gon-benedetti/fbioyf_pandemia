@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC013	Estadística	2017	4	2	2		07715	Profesorado en Química	Cursante
+07345	AC013	Estadística	2017	6	2	4		07715	Profesorado en Química	Recursante
+07345	AC013	Estadística	2018	6	1	4		07715	Profesorado en Química	Cursante
+07345	AC013	Estadística	2018	8	1	7		07715	Profesorado en Química	Recursante
+07345	AC013	Estadística	2019	2	1	1		07715	Profesorado en Química	Cursante
+07345	AC013	Estadística	2019	4	2	2		07715	Profesorado en Química	Recursante
+07345	AC013	Estadística	2020	3		2		07715	Profesorado en Química	Cursante
+07345	AC013	Estadística	2020	5		5		07715	Profesorado en Química	Recursante
+07345	AC013	Estadística	2021	3		3		07715	Profesorado en Química	Cursante
+07345	AC013	Estadística	2021	3		3		07715	Profesorado en Química	Recursante
+07345	AC013	Estadística	2022	1				07715	Profesorado en Química	Cursante
+07345	AC013	Estadística	2022	3		3		07715	Profesorado en Química	Recursante
+07345	AC013	Estadística	2023	1				07715	Profesorado en Química	Cursante
+07345	AC013	Estadística	2023	5		1		07715	Profesorado en Química	Recursante

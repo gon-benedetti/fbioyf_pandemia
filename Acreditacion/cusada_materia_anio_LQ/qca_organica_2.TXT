@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC010	Química Orgánica II	2017	20	15	0	0	5	07055	Licenciatura en Química
+07345	AC010	Química Orgánica II	2018	13	12	0	0	1	07055	Licenciatura en Química
+07345	AC010	Química Orgánica II	2019	10	10	0	0	0	07055	Licenciatura en Química
+07345	AC010	Química Orgánica II	2020	14	10	0	0	6	07055	Licenciatura en Química
+07345	AC010	Química Orgánica II	2021	18	13	1	0	4	07055	Licenciatura en Química
+07345	AC010	Química Orgánica II	2022	13	7	3	0	3	07055	Licenciatura en Química
+07345	AC010	Química Orgánica II	2023	7	0	0	0	0	07055	Licenciatura en Química

@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B0612	Bacteriología	2017	70	60	2	0	8	07015	Bioquímica
+07345	B0612	Bacteriología	2018	71	57	0	0	15	07015	Bioquímica
+07345	B0612	Bacteriología	2019	68	53	2	0	13	07015	Bioquímica
+07345	B0612	Bacteriología	2020	66	53	1	0	12	07015	Bioquímica
+07345	B0612	Bacteriología	2021	51	41	3	0	7	07015	Bioquímica
+07345	B0612	Bacteriología	2022	26	21	0	0	5	07015	Bioquímica
+07345	B0612	Bacteriología	2023	10	0	0	0	0	07015	Bioquímica

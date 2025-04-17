@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC014	Química Analítica I	2017	7	5	3	0	0	07715	Profesorado en Química
+07345	AC014	Química Analítica I	2018	5	3	1	0	1	07715	Profesorado en Química
+07345	AC014	Química Analítica I	2019	1	0	1	0	0	07715	Profesorado en Química
+07345	AC014	Química Analítica I	2020	1	2	0	0	0	07715	Profesorado en Química
+07345	AC014	Química Analítica I	2021	2	0	0	0	2	07715	Profesorado en Química
+07345	AC014	Química Analítica I	2022	4	2	0	0	2	07715	Profesorado en Química
+07345	AC014	Química Analítica I	2023	2	1	0	0	1	07715	Profesorado en Química

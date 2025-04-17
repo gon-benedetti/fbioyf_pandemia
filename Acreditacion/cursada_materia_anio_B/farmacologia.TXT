@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B0608	Farmacología	2017	62	51	0	0	11	07015	Bioquímica
+07345	B0608	Farmacología	2018	82	67	0	0	17	07015	Bioquímica
+07345	B0608	Farmacología	2019	64	53	0	0	12	07015	Bioquímica
+07345	B0608	Farmacología	2020	60	105	0	0	0	07015	Bioquímica
+07345	B0608	Farmacología	2021	64	53	0	0	12	07015	Bioquímica
+07345	B0608	Farmacología	2022	18	14	0	0	4	07015	Bioquímica
+07345	B0608	Farmacología	2023	14	8	5	0	1	07015	Bioquímica

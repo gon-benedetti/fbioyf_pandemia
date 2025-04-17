@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	B0611	Inmunología II	2017	67	61	1	0	5	07015	Bioquímica
+07345	B0611	Inmunología II	2018	42	68	0	0	14	07015	Bioquímica
+07345	B0611	Inmunología II	2019	36	45	0	0	8	07015	Bioquímica
+07345	B0611	Inmunología II	2020	57	50	0	0	7	07015	Bioquímica
+07345	B0611	Inmunología II	2021	47	47	1	0	1	07015	Bioquímica
+07345	B0611	Inmunología II	2022	16	16	0	0	0	07015	Bioquímica
+07345	B0611	Inmunología II	2023	9	0	0	0	0	07015	Bioquímica

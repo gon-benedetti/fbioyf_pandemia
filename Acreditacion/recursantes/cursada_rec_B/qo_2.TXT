@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC010	Química Orgánica II	2017	72	60	11		07015	Bioquímica	Cursante
+07345	AC010	Química Orgánica II	2017	14	9	5		07015	Bioquímica	Recursante
+07345	AC010	Química Orgánica II	2018	66	53	14		07015	Bioquímica	Cursante
+07345	AC010	Química Orgánica II	2018	15	7	8		07015	Bioquímica	Recursante
+07345	AC010	Química Orgánica II	2019	54	41	13		07015	Bioquímica	Cursante
+07345	AC010	Química Orgánica II	2019	12	6	5		07015	Bioquímica	Recursante
+07345	AC010	Química Orgánica II	2020	74	57	12		07015	Bioquímica	Cursante
+07345	AC010	Química Orgánica II	2020	16	10	6		07015	Bioquímica	Recursante
+07345	AC010	Química Orgánica II	2021	77	52	20		07015	Bioquímica	Cursante
+07345	AC010	Química Orgánica II	2021	13	8	4		07015	Bioquímica	Recursante
+07345	AC010	Química Orgánica II	2022	42	28	12		07015	Bioquímica	Cursante
+07345	AC010	Química Orgánica II	2022	15	5	7		07015	Bioquímica	Recursante
+07345	AC010	Química Orgánica II	2023	65				07015	Bioquímica	Cursante
+07345	AC010	Química Orgánica II	2023	11				07015	Bioquímica	Recursante

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07715	Física II	2017	10	4	6	AC007	Profesorado en Química
+07345	07715	Física II	2018	13	4	9	AC007	Profesorado en Química
+07345	07715	Física II	2019	1	1	0	AC007	Profesorado en Química
+07345	07715	Física II	2020	3	1	2	AC007	Profesorado en Química
+07345	07715	Física II	2021	0	0	0	AC007	Profesorado en Química
+07345	07715	Física II	2022	4	1	3	AC007	Profesorado en Química
+07345	07715	Física II	2023	0	0	0	AC007	Profesorado en Química

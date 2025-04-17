@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC003	Física I	2017	19	9	0	0	15	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC003	Física I	2018	26	18	0	0	9	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC003	Física I	2019	32	19	1	0	19	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC003	Física I	2020	33	5	0	0	30	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC003	Física I	2021	30	16	0	0	25	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC003	Física I	2022	20	6	17	0	9	07309	Licenciatura en Ciencia y Tecnología de los Alimentos
+07345	AC003	Física I	2023	25	3	11	0	6	07309	Licenciatura en Ciencia y Tecnología de los Alimentos

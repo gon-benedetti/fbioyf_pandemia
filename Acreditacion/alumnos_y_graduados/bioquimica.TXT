@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_carrera	anio_academico	postulantes	ingresantes	alumnos	egresados
+07345	07015	Bioquímica	2017	230	0	0	0
+07345	07015	Bioquímica	2018	240	0	0	0
+07345	07015	Bioquímica	2019	268	260	1155	43
+07345	07015	Bioquímica	2020	285	261	1199	37
+07345	07015	Bioquímica	2021	299	296	1282	33
+07345	07015	Bioquímica	2022	300	286	1257	26
+07345	07015	Bioquímica	2023	260	0	0	0

@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F0611	Farmacología	2017	91	78	10	0	3	07035	Farmacia
+07345	F0611	Farmacología	2018	103	93	7	0	5	07035	Farmacia
+07345	F0611	Farmacología	2019	67	61	6	0	2	07035	Farmacia
+07345	F0611	Farmacología	2020	56	49	1	0	5	07035	Farmacia
+07345	F0611	Farmacología	2021	25	22	0	0	3	07035	Farmacia
+07345	F0611	Farmacología	2022	27	20	3	0	5	07035	Farmacia
+07345	F0611	Farmacología	2023	15	0	0	0	0	07035	Farmacia

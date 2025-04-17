@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07055	Taller de Computación	2017	11	11	0	AC020	Licenciatura en Química
+07345	07055	Taller de Computación	2018	11	11	0	AC020	Licenciatura en Química
+07345	07055	Taller de Computación	2019	15	15	0	AC020	Licenciatura en Química
+07345	07055	Taller de Computación	2020	1	1	0	AC020	Licenciatura en Química
+07345	07055	Taller de Computación	2021	1	1	0	AC020	Licenciatura en Química
+07345	07055	Taller de Computación	2022	0	0	0	AC020	Licenciatura en Química
+07345	07055	Taller de Computación	2023	0	0	0	AC020	Licenciatura en Química

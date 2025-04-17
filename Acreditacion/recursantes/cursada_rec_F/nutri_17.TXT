@@ -1,0 +1,5 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F1722	Nutrición y Bromatología	2020	2	2			07035	Farmacia	Cursante
+07345	F1722	Nutrición y Bromatología	2021	12	5			07035	Farmacia	Cursante
+07345	F1722	Nutrición y Bromatología	2022	13	9			07035	Farmacia	Cursante
+07345	F1722	Nutrición y Bromatología	2023	35				07035	Farmacia	Cursante

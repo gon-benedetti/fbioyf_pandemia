@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Física II	2017	197	47	150	AC007	Farmacia
+07345	07035	Física II	2018	142	48	94	AC007	Farmacia
+07345	07035	Física II	2019	69	28	41	AC007	Farmacia
+07345	07035	Física II	2020	107	35	72	AC007	Farmacia
+07345	07035	Física II	2021	56	28	28	AC007	Farmacia
+07345	07035	Física II	2022	85	26	59	AC007	Farmacia
+07345	07035	Física II	2023	24	3	21	AC007	Farmacia

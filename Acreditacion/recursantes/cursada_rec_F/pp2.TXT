@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	F0622	Práctica Profesional Nivel II	2017	92	72	4		07035	Farmacia	Cursante
+07345	F0622	Práctica Profesional Nivel II	2017	10	10			07035	Farmacia	Recursante
+07345	F0622	Práctica Profesional Nivel II	2018	84	75	5		07035	Farmacia	Cursante
+07345	F0622	Práctica Profesional Nivel II	2018	4	4			07035	Farmacia	Recursante
+07345	F0622	Práctica Profesional Nivel II	2019	99	84	10		07035	Farmacia	Cursante
+07345	F0622	Práctica Profesional Nivel II	2019	5	4			07035	Farmacia	Recursante
+07345	F0622	Práctica Profesional Nivel II	2020	79	68	2		07035	Farmacia	Cursante
+07345	F0622	Práctica Profesional Nivel II	2020	9	9			07035	Farmacia	Recursante
+07345	F0622	Práctica Profesional Nivel II	2021	49	46	3		07035	Farmacia	Cursante
+07345	F0622	Práctica Profesional Nivel II	2021	2	1	1		07035	Farmacia	Recursante
+07345	F0622	Práctica Profesional Nivel II	2022	33	6	5	20	07035	Farmacia	Cursante
+07345	F0622	Práctica Profesional Nivel II	2022	3	2	1		07035	Farmacia	Recursante
+07345	F0622	Práctica Profesional Nivel II	2023	26				07035	Farmacia	Cursante
+07345	F0622	Práctica Profesional Nivel II	2023	3				07035	Farmacia	Recursante

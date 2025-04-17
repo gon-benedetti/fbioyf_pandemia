@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Química Biológica	2017	77	53	24	B0603	Bioquímica
+07345	07015	Química Biológica	2018	77	58	19	B0603	Bioquímica
+07345	07015	Química Biológica	2019	54	38	16	B0603	Bioquímica
+07345	07015	Química Biológica	2020	75	62	13	B0603	Bioquímica
+07345	07015	Química Biológica	2021	24	19	5	B0603	Bioquímica
+07345	07015	Química Biológica	2022	46	28	18	B0603	Bioquímica
+07345	07015	Química Biológica	2023	11	7	4	B0603	Bioquímica

@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07075	Matemática II	2017	80	56	24	AC004	Licenciatura en Biotecnología
+07345	07075	Matemática II	2018	62	39	23	AC004	Licenciatura en Biotecnología
+07345	07075	Matemática II	2019	118	62	56	AC004	Licenciatura en Biotecnología
+07345	07075	Matemática II	2020	75	33	42	AC004	Licenciatura en Biotecnología
+07345	07075	Matemática II	2021	114	52	62	AC004	Licenciatura en Biotecnología
+07345	07075	Matemática II	2022	142	69	73	AC004	Licenciatura en Biotecnología
+07345	07075	Matemática II	2023	51	21	30	AC004	Licenciatura en Biotecnología

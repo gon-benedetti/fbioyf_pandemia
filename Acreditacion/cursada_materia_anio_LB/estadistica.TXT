@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC013	Estadística	2017	107	58	28	0	27	07075	Licenciatura en Biotecnología
+07345	AC013	Estadística	2018	84	35	26	0	38	07075	Licenciatura en Biotecnología
+07345	AC013	Estadística	2019	106	47	25	0	43	07075	Licenciatura en Biotecnología
+07345	AC013	Estadística	2020	103	60	22	0	29	07075	Licenciatura en Biotecnología
+07345	AC013	Estadística	2021	88	27	29	0	38	07075	Licenciatura en Biotecnología
+07345	AC013	Estadística	2022	113	55	33	0	43	07075	Licenciatura en Biotecnología
+07345	AC013	Estadística	2023	138	4	3	0	15	07075	Licenciatura en Biotecnología

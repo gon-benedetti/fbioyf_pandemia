@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Taller de Idioma	2017	0	0	0	AC021	Bioquímica
+07345	07015	Taller de Idioma	2018	0	0	0	AC021	Bioquímica
+07345	07015	Taller de Idioma	2019	9	7	2	AC021	Bioquímica
+07345	07015	Taller de Idioma	2020	52	38	14	AC021	Bioquímica
+07345	07015	Taller de Idioma	2021	93	74	19	AC021	Bioquímica
+07345	07015	Taller de Idioma	2022	53	35	18	AC021	Bioquímica
+07345	07015	Taller de Idioma	2023	34	25	9	AC021	Bioquímica

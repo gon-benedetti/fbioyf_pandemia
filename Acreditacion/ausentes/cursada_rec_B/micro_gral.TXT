@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0607	Microbiología General	2017	60	52	5		07015	Bioquímica	Cursante
+07345	B0607	Microbiología General	2017	4	3	1		07015	Bioquímica	Recursante
+07345	B0607	Microbiología General	2018	74	69	4		07015	Bioquímica	Cursante
+07345	B0607	Microbiología General	2018	11	8	3		07015	Bioquímica	Recursante
+07345	B0607	Microbiología General	2019	81	64	10		07015	Bioquímica	Cursante
+07345	B0607	Microbiología General	2019	6	4	2		07015	Bioquímica	Recursante
+07345	B0607	Microbiología General	2020	45	41	1		07015	Bioquímica	Cursante
+07345	B0607	Microbiología General	2020	50	48	2		07015	Bioquímica	Recursante
+07345	B0607	Microbiología General	2021	47	38	5		07015	Bioquímica	Cursante
+07345	B0607	Microbiología General	2021	1	1			07015	Bioquímica	Recursante
+07345	B0607	Microbiología General	2022	6	3	2		07015	Bioquímica	Cursante
+07345	B0607	Microbiología General	2022	7	3	4		07015	Bioquímica	Recursante
+07345	B0607	Microbiología General	2023	4	4			07015	Bioquímica	Cursante
+07345	B0607	Microbiología General	2023	2	1	1		07015	Bioquímica	Recursante

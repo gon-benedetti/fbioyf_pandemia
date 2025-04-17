@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07015	Matemática I	2017	165	60	105	AC002	Bioquímica
+07345	07015	Matemática I	2018	244	71	173	AC002	Bioquímica
+07345	07015	Matemática I	2019	381	100	281	AC002	Bioquímica
+07345	07015	Matemática I	2020	165	50	115	AC002	Bioquímica
+07345	07015	Matemática I	2021	238	58	180	AC002	Bioquímica
+07345	07015	Matemática I	2022	291	81	210	AC002	Bioquímica
+07345	07015	Matemática I	2023	100	32	68	AC002	Bioquímica

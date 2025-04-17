@@ -1,0 +1,12 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	B0603	Química Biológica	2017	77	46	31		07015	Bioquímica	Cursante
+07345	B0603	Química Biológica	2017	55	30	26		07015	Bioquímica	Recursante
+07345	B0603	Química Biológica	2018	74	56	17		07015	Bioquímica	Cursante
+07345	B0603	Química Biológica	2018	54	28	29		07015	Bioquímica	Recursante
+07345	B0603	Química Biológica	2019	53	35	17		07015	Bioquímica	Cursante
+07345	B0603	Química Biológica	2019	45	20	22		07015	Bioquímica	Recursante
+07345	B0603	Química Biológica	2020	35	33	2		07015	Bioquímica	Cursante
+07345	B0603	Química Biológica	2020	13	6	5		07015	Bioquímica	Recursante
+07345	B0603	Química Biológica	2021	4	4			07015	Bioquímica	Cursante
+07345	B0603	Química Biológica	2021	7	4	3		07015	Bioquímica	Recursante
+07345	B0603	Química Biológica	2022	2	1	1		07015	Bioquímica	Recursante

@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC020	Taller de Computación	2017	0	0	0	0	0	07035	Farmacia
+07345	AC020	Taller de Computación	2018	0	0	0	0	0	07035	Farmacia
+07345	AC020	Taller de Computación	2019	1	1	0	0	0	07035	Farmacia
+07345	AC020	Taller de Computación	2020	49	0	0	0	8	07035	Farmacia
+07345	AC020	Taller de Computación	2021	44	8	0	30	7	07035	Farmacia
+07345	AC020	Taller de Computación	2022	31	8	0	20	4	07035	Farmacia
+07345	AC020	Taller de Computación	2023	54	1	0	35	15	07035	Farmacia

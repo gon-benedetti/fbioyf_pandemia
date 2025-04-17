@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC001	Química General e Inorgánica	2017	279	65	0	0	223	07015	Bioquímica
+07345	AC001	Química General e Inorgánica	2018	311	50	0	0	327	07015	Bioquímica
+07345	AC001	Química General e Inorgánica	2019	381	96	81	0	450	07015	Bioquímica
+07345	AC001	Química General e Inorgánica	2020	380	143	0	0	315	07015	Bioquímica
+07345	AC001	Química General e Inorgánica	2021	444	79	0	0	384	07015	Bioquímica
+07345	AC001	Química General e Inorgánica	2022	443	54	0	0	539	07015	Bioquímica
+07345	AC001	Química General e Inorgánica	2023	425	2	0	0	5	07015	Bioquímica

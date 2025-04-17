@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC002	Matemática I	2017	195	60	141		07015	Bioquímica	Cursante
+07345	AC002	Matemática I	2017	155	15	143		07015	Bioquímica	Recursante
+07345	AC002	Matemática I	2018	210	86	123		07015	Bioquímica	Cursante
+07345	AC002	Matemática I	2018	159	36	127		07015	Bioquímica	Recursante
+07345	AC002	Matemática I	2019	248	78	170		07015	Bioquímica	Cursante
+07345	AC002	Matemática I	2019	151	33	119		07015	Bioquímica	Recursante
+07345	AC002	Matemática I	2020	243	241	3		07015	Bioquímica	Cursante
+07345	AC002	Matemática I	2020	284	154	127		07015	Bioquímica	Recursante
+07345	AC002	Matemática I	2021	288	98	190		07015	Bioquímica	Cursante
+07345	AC002	Matemática I	2021	251	38	207		07015	Bioquímica	Recursante
+07345	AC002	Matemática I	2022	281	54	227		07015	Bioquímica	Cursante
+07345	AC002	Matemática I	2022	244	53	190		07015	Bioquímica	Recursante
+07345	AC002	Matemática I	2023	229	44	194	7	07015	Bioquímica	Cursante
+07345	AC002	Matemática I	2023	246	17	83	1	07015	Bioquímica	Recursante

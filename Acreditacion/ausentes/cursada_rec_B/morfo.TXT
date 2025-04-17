@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC011	Morfología	2017	79	54	24		07015	Bioquímica	Cursante
+07345	AC011	Morfología	2017	47	30	18		07015	Bioquímica	Recursante
+07345	AC011	Morfología	2018	59	40	21		07015	Bioquímica	Cursante
+07345	AC011	Morfología	2018	29	19	9		07015	Bioquímica	Recursante
+07345	AC011	Morfología	2019	61	41	19		07015	Bioquímica	Cursante
+07345	AC011	Morfología	2019	32	14	20		07015	Bioquímica	Recursante
+07345	AC011	Morfología	2020	89	69	13		07015	Bioquímica	Cursante
+07345	AC011	Morfología	2020	40	29	10		07015	Bioquímica	Recursante
+07345	AC011	Morfología	2021	78	65	6		07015	Bioquímica	Cursante
+07345	AC011	Morfología	2021	15	10	3		07015	Bioquímica	Recursante
+07345	AC011	Morfología	2022	46	35	11		07015	Bioquímica	Cursante
+07345	AC011	Morfología	2022	6	4	2		07015	Bioquímica	Recursante
+07345	AC011	Morfología	2023	64				07015	Bioquímica	Cursante
+07345	AC011	Morfología	2023	9				07015	Bioquímica	Recursante

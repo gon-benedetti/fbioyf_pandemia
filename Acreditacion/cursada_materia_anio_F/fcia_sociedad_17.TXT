@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F1715	Farmacia y Sociedad	2017	0	0	0	0	0	07035	Farmacia
+07345	F1715	Farmacia y Sociedad	2018	0	0	0	0	0	07035	Farmacia
+07345	F1715	Farmacia y Sociedad	2019	0	0	0	0	0	07035	Farmacia
+07345	F1715	Farmacia y Sociedad	2020	17	13	0	0	4	07035	Farmacia
+07345	F1715	Farmacia y Sociedad	2021	24	21	0	0	3	07035	Farmacia
+07345	F1715	Farmacia y Sociedad	2022	38	21	0	13	4	07035	Farmacia
+07345	F1715	Farmacia y Sociedad	2023	27	0	0	0	0	07035	Farmacia

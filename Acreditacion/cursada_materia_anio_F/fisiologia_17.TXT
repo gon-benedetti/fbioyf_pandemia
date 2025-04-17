@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F1712	Fisiología	2017	0	0	0	0	0	07035	Farmacia
+07345	F1712	Fisiología	2018	0	0	0	0	0	07035	Farmacia
+07345	F1712	Fisiología	2019	0	0	0	0	0	07035	Farmacia
+07345	F1712	Fisiología	2020	8	6	0	0	2	07035	Farmacia
+07345	F1712	Fisiología	2021	40	12	0	0	28	07035	Farmacia
+07345	F1712	Fisiología	2022	54	36	0	0	18	07035	Farmacia
+07345	F1712	Fisiología	2023	51	26	16	0	9	07035	Farmacia

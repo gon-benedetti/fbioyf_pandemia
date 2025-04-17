@@ -1,0 +1,11 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC017	Epistemología y Metodología de la Investigación I	2017	71	59	10		07015	Bioquímica	Cursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2017	4	2	2		07015	Bioquímica	Recursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2018	75	60	16		07015	Bioquímica	Cursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2018	10	6	4		07015	Bioquímica	Recursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2019	47	39	4		07015	Bioquímica	Cursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2019	12	8	4		07015	Bioquímica	Recursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2020	28	26	1		07015	Bioquímica	Cursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2020	6	5	1		07015	Bioquímica	Recursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2021	3	1	1		07015	Bioquímica	Cursante
+07345	AC017	Epistemología y Metodología de la Investigación I	2021	2	1	1		07015	Bioquímica	Recursante

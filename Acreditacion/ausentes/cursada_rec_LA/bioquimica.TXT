@@ -1,0 +1,5 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	A1203	Bioquímica	2017	9	10			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	A1203	Bioquímica	2018	11	6	5		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	A1203	Bioquímica	2019	8	5	3		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	A1203	Bioquímica	2019	5	3	2		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante

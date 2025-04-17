@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC005	Biología	2017	69	43	18		07075	Licenciatura en Biotecnología	Cursante
+07345	AC005	Biología	2017	15	11	4		07075	Licenciatura en Biotecnología	Recursante
+07345	AC005	Biología	2018	67	45	18		07075	Licenciatura en Biotecnología	Cursante
+07345	AC005	Biología	2018	14	7	7		07075	Licenciatura en Biotecnología	Recursante
+07345	AC005	Biología	2019	49	37	16		07075	Licenciatura en Biotecnología	Cursante
+07345	AC005	Biología	2019	19	15	4		07075	Licenciatura en Biotecnología	Recursante
+07345	AC005	Biología	2020	69	63	3		07075	Licenciatura en Biotecnología	Cursante
+07345	AC005	Biología	2020	82	76	6		07075	Licenciatura en Biotecnología	Recursante
+07345	AC005	Biología	2021	91	67	13		07075	Licenciatura en Biotecnología	Cursante
+07345	AC005	Biología	2021	9	8	1		07075	Licenciatura en Biotecnología	Recursante
+07345	AC005	Biología	2022	70	47	20		07075	Licenciatura en Biotecnología	Cursante
+07345	AC005	Biología	2022	10	6	3		07075	Licenciatura en Biotecnología	Recursante
+07345	AC005	Biología	2023	85	70	14		07075	Licenciatura en Biotecnología	Cursante
+07345	AC005	Biología	2023	19	16	3		07075	Licenciatura en Biotecnología	Recursante

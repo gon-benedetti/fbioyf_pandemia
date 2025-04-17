@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F0609	Química Medicinal	2017	100	93	0	0	7	07035	Farmacia
+07345	F0609	Química Medicinal	2018	77	68	0	0	9	07035	Farmacia
+07345	F0609	Química Medicinal	2019	78	69	0	0	11	07035	Farmacia
+07345	F0609	Química Medicinal	2020	43	36	0	0	7	07035	Farmacia
+07345	F0609	Química Medicinal	2021	36	31	0	0	5	07035	Farmacia
+07345	F0609	Química Medicinal	2022	20	17	0	0	3	07035	Farmacia
+07345	F0609	Química Medicinal	2023	0	0	0	0	0	07035	Farmacia

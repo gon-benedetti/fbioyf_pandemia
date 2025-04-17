@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	F0615	Práctica Profesional Nivel I	2017	85	80	0	0	7	07035	Farmacia
+07345	F0615	Práctica Profesional Nivel I	2018	87	85	0	0	5	07035	Farmacia
+07345	F0615	Práctica Profesional Nivel I	2019	66	65	0	0	1	07035	Farmacia
+07345	F0615	Práctica Profesional Nivel I	2020	41	37	0	0	5	07035	Farmacia
+07345	F0615	Práctica Profesional Nivel I	2021	44	41	0	0	3	07035	Farmacia
+07345	F0615	Práctica Profesional Nivel I	2022	24	8	0	15	1	07035	Farmacia
+07345	F0615	Práctica Profesional Nivel I	2023	2	0	0	0	0	07035	Farmacia

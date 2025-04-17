@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Farmacia y Sociedad	2017	83	63	20	F0614	Farmacia
+07345	07035	Farmacia y Sociedad	2018	124	83	41	F0614	Farmacia
+07345	07035	Farmacia y Sociedad	2019	71	56	15	F0614	Farmacia
+07345	07035	Farmacia y Sociedad	2020	94	65	29	F0614	Farmacia
+07345	07035	Farmacia y Sociedad	2021	67	49	18	F0614	Farmacia
+07345	07035	Farmacia y Sociedad	2022	52	34	18	F0614	Farmacia
+07345	07035	Farmacia y Sociedad	2023	13	11	2	F0614	Farmacia

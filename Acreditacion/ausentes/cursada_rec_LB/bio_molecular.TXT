@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	T0706	Biología Molecular	2017	61	54	6		07075	Licenciatura en Biotecnología	Cursante
+07345	T0706	Biología Molecular	2017	5	4	1		07075	Licenciatura en Biotecnología	Recursante
+07345	T0706	Biología Molecular	2018	58	37	11		07075	Licenciatura en Biotecnología	Cursante
+07345	T0706	Biología Molecular	2018	18	10	6		07075	Licenciatura en Biotecnología	Recursante
+07345	T0706	Biología Molecular	2019	47	35	6		07075	Licenciatura en Biotecnología	Cursante
+07345	T0706	Biología Molecular	2019	11	10			07075	Licenciatura en Biotecnología	Recursante
+07345	T0706	Biología Molecular	2020	44	24	10		07075	Licenciatura en Biotecnología	Cursante
+07345	T0706	Biología Molecular	2020	3	5			07075	Licenciatura en Biotecnología	Recursante
+07345	T0706	Biología Molecular	2021	41	21	14		07075	Licenciatura en Biotecnología	Cursante
+07345	T0706	Biología Molecular	2021	16	14	5		07075	Licenciatura en Biotecnología	Recursante
+07345	T0706	Biología Molecular	2022	8	5	3		07075	Licenciatura en Biotecnología	Cursante
+07345	T0706	Biología Molecular	2022	6	3	2		07075	Licenciatura en Biotecnología	Recursante
+07345	T0706	Biología Molecular	2023	6				07075	Licenciatura en Biotecnología	Cursante
+07345	T0706	Biología Molecular	2023	5				07075	Licenciatura en Biotecnología	Recursante

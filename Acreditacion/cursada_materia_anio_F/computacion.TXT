@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC009	Computación	2017	0	0	0	0	0	07035	Farmacia
+07345	AC009	Computación	2018	56	54	0	0	2	07035	Farmacia
+07345	AC009	Computación	2019	65	56	0	0	9	07035	Farmacia
+07345	AC009	Computación	2020	7	1	0	0	3	07035	Farmacia
+07345	AC009	Computación	2021	4	1	0	3	0	07035	Farmacia
+07345	AC009	Computación	2022	0	0	0	0	0	07035	Farmacia
+07345	AC009	Computación	2023	0	0	0	0	0	07035	Farmacia

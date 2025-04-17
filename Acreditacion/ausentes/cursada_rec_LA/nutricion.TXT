@@ -1,0 +1,5 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	A1209	Nutrición	2017	5	3	1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	A1209	Nutrición	2017	1	1			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	A1209	Nutrición	2018	4	5			07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	A1209	Nutrición	2019	8	6	1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante

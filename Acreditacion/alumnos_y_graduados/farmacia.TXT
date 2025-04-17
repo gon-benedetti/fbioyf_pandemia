@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_carrera	anio_academico	postulantes	ingresantes	alumnos	egresados
+07345	07035	Farmacia	2017	211	0	0	0
+07345	07035	Farmacia	2018	180	0	0	0
+07345	07035	Farmacia	2019	197	186	1177	69
+07345	07035	Farmacia	2020	186	170	1100	35
+07345	07035	Farmacia	2021	184	184	1081	45
+07345	07035	Farmacia	2022	209	196	1079	41
+07345	07035	Farmacia	2023	197	0	0	0

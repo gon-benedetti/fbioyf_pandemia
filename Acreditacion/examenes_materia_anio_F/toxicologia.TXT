@@ -1,0 +1,8 @@
+unidad_academica	carrera	nombre_materia	anio_academico	presentes	aprobados	reprobados	materia	nombre_carrera
+07345	07035	Toxicología	2017	75	62	13	F0618	Farmacia
+07345	07035	Toxicología	2018	94	81	13	F0618	Farmacia
+07345	07035	Toxicología	2019	65	58	7	F0618	Farmacia
+07345	07035	Toxicología	2020	46	37	9	F0618	Farmacia
+07345	07035	Toxicología	2021	68	45	23	F0618	Farmacia
+07345	07035	Toxicología	2022	45	37	8	F0618	Farmacia
+07345	07035	Toxicología	2023	25	21	4	F0618	Farmacia

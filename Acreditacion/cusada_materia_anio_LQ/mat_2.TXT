@@ -1,0 +1,8 @@
+unidad_academica	materia	nombre_materia	anio	inscriptos	aprobados	reprobados	promocionados	ausentes	carrera	nombre_carrera
+07345	AC004	Matemática II	2017	24	11	5	0	10	07055	Licenciatura en Química
+07345	AC004	Matemática II	2018	25	10	6	0	13	07055	Licenciatura en Química
+07345	AC004	Matemática II	2019	40	14	10	0	22	07055	Licenciatura en Química
+07345	AC004	Matemática II	2020	44	24	4	0	17	07055	Licenciatura en Química
+07345	AC004	Matemática II	2021	25	13	3	0	10	07055	Licenciatura en Química
+07345	AC004	Matemática II	2022	22	10	6	0	12	07055	Licenciatura en Química
+07345	AC004	Matemática II	2023	41	0	0	0	0	07055	Licenciatura en Química

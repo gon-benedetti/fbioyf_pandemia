@@ -1,0 +1,15 @@
+compute_0001	compute_0002	compute_0003	compute_0004	compute_0005	compute_0006	compute_0007	compute_0008	compute_0009	compute_0010	compute_0011
+07345	AC001	Química General e Inorgánica	2017	49	7	45		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC001	Química General e Inorgánica	2017	18	4	14		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC001	Química General e Inorgánica	2018	48	7	41		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC001	Química General e Inorgánica	2018	43	2	40		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC001	Química General e Inorgánica	2019	49	4	48		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC001	Química General e Inorgánica	2019	78	6	67		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC001	Química General e Inorgánica	2020	49	11	41		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC001	Química General e Inorgánica	2020	33	22	16		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC001	Química General e Inorgánica	2021	56	1	55		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC001	Química General e Inorgánica	2021	29	9	22		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC001	Química General e Inorgánica	2022	41	2	39		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC001	Química General e Inorgánica	2022	27	4	23		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
+07345	AC001	Química General e Inorgánica	2023	53		1		07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Cursante
+07345	AC001	Química General e Inorgánica	2023	21				07309	Licenciatura en Ciencia y Tecnología de los Alimentos	Recursante
